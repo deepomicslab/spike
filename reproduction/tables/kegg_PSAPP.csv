@@ -1,0 +1,340 @@
+Term,p,overlap,set_size,n_query,fdr,method,condition
+Cell adhesion molecules (CAMs),2.403120487888988e-35,17,159,23,7.281455078303633e-33,spatialDM,source
+Leukocyte transendothelial migration,1.2396049892320764e-06,4,114,23,0.0001878001558686,spatialDM,source
+cAMP signaling pathway,1.3979894745535986e-05,4,210,23,0.0014119693692991,spatialDM,source
+Gastric acid secretion,1.980687107440422e-05,3,74,23,0.0015003704838861,spatialDM,source
+Neuroactive ligand-receptor interaction,9.991653167733472e-05,4,348,23,0.0060549418196464,spatialDM,source
+Tight junction,0.0002191841922442,3,166,23,0.0110688017083371,spatialDM,source
+Regulation of lipolysis in adipocytes,0.0007045516604759,2,55,23,0.0304970218748893,spatialDM,source
+Adherens junction,0.0012037904927161,2,72,23,0.0427896601539032,spatialDM,source
+Renin secretion,0.0012709800045713,2,74,23,0.0427896601539032,spatialDM,source
+Aldosterone synthesis and secretion,0.0023946676097065,2,102,23,0.0725584285741072,spatialDM,source
+Vascular smooth muscle contraction,0.0043268004107606,2,138,23,0.1191836840418626,spatialDM,source
+Oxytocin signaling pathway,0.0052879744539648,2,153,23,0.1335213549626133,spatialDM,source
+cGMP-PKG signaling pathway,0.0064849060620547,2,170,23,0.1511481951386609,spatialDM,source
+Thermogenesis,0.0100953853816703,2,214,23,0.2184929836175792,spatialDM,source
+Prion diseases,0.0239513068412302,1,34,23,0.4616867779857505,spatialDM,source
+African trypanosomiasis,0.0253429823166253,1,36,23,0.4616867779857505,spatialDM,source
+Thyroid cancer,0.0260381081005789,1,37,23,0.4616867779857505,spatialDM,source
+Bladder cancer,0.0274269373060841,1,39,23,0.4616867779857505,spatialDM,source
+Endometrial cancer,0.0405266780723194,1,58,23,0.6462938661006732,spatialDM,source
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),0.0500709433554236,1,72,23,0.7082896871739155,spatialDM,source
+Melanoma,0.0500709433554236,1,72,23,0.7082896871739155,spatialDM,source
+Bacterial invasion of epithelial cells,0.0514269739862248,1,74,23,0.7082896871739155,spatialDM,source
+Insulin secretion,0.0595243565368886,1,86,23,0.7841686969859673,spatialDM,source
+HIF-1 signaling pathway,0.0708825497059917,1,103,23,0.8590965024366201,spatialDM,source
+Pancreatic secretion,0.0708825497059917,1,103,23,0.8590965024366201,spatialDM,source
+Purine metabolism,0.0919077014978707,1,135,23,1.0,spatialDM,source
+Apelin signaling pathway,0.0925573476212159,1,136,23,1.0,spatialDM,source
+Gastric cancer,0.1009623976334019,1,149,23,1.0,spatialDM,source
+Hepatitis C,0.1067376009229117,1,158,23,1.0,spatialDM,source
+Hippo signaling pathway,0.1067376009229117,1,158,23,1.0,spatialDM,source
+Axon guidance,0.1207057549407647,1,180,23,1.0,spatialDM,source
+Calcium signaling pathway,0.1257330903089701,1,188,23,1.0,spatialDM,source
+Rap1 signaling pathway,0.1387993721704283,1,209,23,1.0,spatialDM,source
+Pathways in cancer,0.3177016458670638,1,532,23,1.0,spatialDM,source
+Cell adhesion molecules (CAMs),3.917673071530887e-32,16,159,24,1.1870549406738589e-29,spatialDM,target
+Neuroactive ligand-receptor interaction,1.0642600473318191e-10,8,348,24,1.6123539717077058e-08,spatialDM,target
+Leukocyte transendothelial migration,2.0241220612424504e-08,5,114,24,2.0443632818548747e-06,spatialDM,target
+Tight junction,1.3284949372895294e-07,5,166,24,1.0063349149968186e-05,spatialDM,target
+cAMP signaling pathway,1.669053981338092e-05,4,210,24,0.0010114467126908,spatialDM,target
+Gastric acid secretion,2.2599148850480795e-05,3,74,24,0.0011412570169492,spatialDM,target
+Regulation of lipolysis in adipocytes,0.0007677626036077,2,55,24,0.0332331526990227,spatialDM,target
+Hepatitis C,0.0061202939287347,2,158,24,0.2318061325508272,spatialDM,target
+Calcium signaling pathway,0.0085571521308034,2,188,24,0.2880907884037152,spatialDM,target
+Prion diseases,0.0249799366709803,1,34,24,0.7568920811307036,spatialDM,target
+Adipocytokine signaling pathway,0.0514842653664254,1,71,24,1.0,spatialDM,target
+Adherens junction,0.0521909263719263,1,72,24,1.0,spatialDM,target
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),0.0521909263719263,1,72,24,1.0,spatialDM,target
+Insulin secretion,0.0620313587480915,1,86,24,1.0,spatialDM,target
+Pancreatic secretion,0.0738488598349448,1,103,24,1.0,spatialDM,target
+Axon guidance,0.1256116183128639,1,180,24,1.0,spatialDM,target
+Alcoholism,0.1347201719656878,1,194,24,1.0,spatialDM,target
+Cell adhesion molecules (CAMs),1.9751379665982923e-33,17,159,27,5.984668038792826e-31,COMMOT,source
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),0.0016604793541772,2,72,27,0.2220223631787845,COMMOT,source
+ECM-receptor interaction,0.0021982412195919,2,83,27,0.2220223631787845,COMMOT,source
+Lysosome,0.0048234094320692,2,124,27,0.3653732644792458,COMMOT,source
+Prion diseases,0.0280595171786794,1,34,27,1.0,COMMOT,source
+Cholesterol metabolism,0.0393916992630386,1,48,27,1.0,COMMOT,source
+Viral myocarditis,0.0616755771413221,1,76,27,1.0,COMMOT,source
+Hypertrophic cardiomyopathy (HCM),0.0687319250789726,1,85,27,1.0,COMMOT,source
+Dilated cardiomyopathy (DCM),0.0718516516177675,1,89,27,1.0,COMMOT,source
+Leukocyte transendothelial migration,0.0911231373438199,1,114,27,1.0,COMMOT,source
+Neurotrophin signaling pathway,0.0964497287001876,1,121,27,1.0,COMMOT,source
+Parkinson disease,0.1009914409461937,1,127,27,1.0,COMMOT,source
+Hepatitis C,0.1241089369562712,1,158,27,1.0,COMMOT,source
+Tight junction,0.1299811751664386,1,166,27,1.0,COMMOT,source
+Axon guidance,0.1401664874194781,1,180,27,1.0,COMMOT,source
+Cell adhesion molecules (CAMs),1.9751379665982923e-33,17,159,27,5.984668038792826e-31,COMMOT,target
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),0.0016604793541772,2,72,27,0.2220223631787845,COMMOT,target
+ECM-receptor interaction,0.0021982412195919,2,83,27,0.2220223631787845,COMMOT,target
+Lysosome,0.0048234094320692,2,124,27,0.3653732644792458,COMMOT,target
+Prion diseases,0.0280595171786794,1,34,27,1.0,COMMOT,target
+Cholesterol metabolism,0.0393916992630386,1,48,27,1.0,COMMOT,target
+Viral myocarditis,0.0616755771413221,1,76,27,1.0,COMMOT,target
+Hypertrophic cardiomyopathy (HCM),0.0687319250789726,1,85,27,1.0,COMMOT,target
+Dilated cardiomyopathy (DCM),0.0718516516177675,1,89,27,1.0,COMMOT,target
+Leukocyte transendothelial migration,0.0911231373438199,1,114,27,1.0,COMMOT,target
+Neurotrophin signaling pathway,0.0964497287001876,1,121,27,1.0,COMMOT,target
+Parkinson disease,0.1009914409461937,1,127,27,1.0,COMMOT,target
+Hepatitis C,0.1241089369562712,1,158,27,1.0,COMMOT,target
+Tight junction,0.1299811751664386,1,166,27,1.0,COMMOT,target
+Axon guidance,0.1401664874194781,1,180,27,1.0,COMMOT,target
+Cell adhesion molecules (CAMs),2.7447741071887e-11,7,159,25,8.31666554478176e-09,stLearn,source
+Adherens junction,2.4574458612983363e-09,5,72,25,3.7230304798669794e-07,stLearn,source
+Axon guidance,0.0085241811941004,2,180,25,0.8536231200387195,stLearn,source
+cAMP signaling pathway,0.0114484680260204,2,210,25,0.8536231200387195,stLearn,source
+Human cytomegalovirus infection,0.0153382982318207,2,245,25,0.8536231200387195,stLearn,source
+Phenylalanine metabolism,0.0169034281195786,1,22,25,0.8536231200387195,stLearn,source
+Neuroactive ligand-receptor interaction,0.0295199055925543,2,348,25,0.993862352404874,stLearn,source
+Tyrosine metabolism,0.0297769472559994,1,39,25,0.993862352404874,stLearn,source
+Malaria,0.0357789268564128,1,47,25,0.993862352404874,stLearn,source
+Cholesterol metabolism,0.0365266632801547,1,48,25,0.993862352404874,stLearn,source
+Herpes simplex virus 1 infection,0.0399964190983091,2,411,25,0.993862352404874,stLearn,source
+p53 signaling pathway,0.0535717585364754,1,71,25,0.993862352404874,stLearn,source
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),0.0543062437303845,1,72,25,0.993862352404874,stLearn,source
+Renin secretion,0.0557735728445716,1,74,25,0.993862352404874,stLearn,source
+Viral myocarditis,0.057238716197429,1,76,25,0.993862352404874,stLearn,source
+Antigen processing and presentation,0.0601624580968151,1,80,25,0.993862352404874,stLearn,source
+ECM-receptor interaction,0.0623495500754579,1,83,25,0.993862352404874,stLearn,source
+Hypertrophic cardiomyopathy (HCM),0.0638048960568037,1,85,25,0.993862352404874,stLearn,source
+Insulin secretion,0.0645317556095547,1,86,25,0.993862352404874,stLearn,source
+Dilated cardiomyopathy (DCM),0.06670908516258,1,89,25,0.993862352404874,stLearn,source
+Small cell lung cancer,0.0688815491765754,1,92,25,0.993862352404874,stLearn,source
+Circadian entrainment,0.0732119222487248,1,98,25,1.0,stLearn,source
+TNF signaling pathway,0.0818147390051466,1,110,25,1.0,stLearn,source
+Thyroid hormone signaling pathway,0.0853765743217235,1,115,25,1.0,stLearn,source
+Lysosome,0.091754478171255,1,124,25,1.0,stLearn,source
+Fluid shear stress and atherosclerosis,0.1043824369420215,1,142,25,1.0,stLearn,source
+Alzheimer disease,0.1202730320426113,1,165,25,1.0,stLearn,source
+Phagosome,0.1216419584009641,1,167,25,1.0,stLearn,source
+Tuberculosis,0.1270972422842624,1,175,25,1.0,stLearn,source
+Chemokine signaling pathway,0.1372383555253726,1,190,25,1.0,stLearn,source
+Focal adhesion,0.1426006036153387,1,198,25,1.0,stLearn,source
+Proteoglycans in cancer,0.143268630695141,1,199,25,1.0,stLearn,source
+Regulation of actin cytoskeleton,0.1545489319397176,1,216,25,1.0,stLearn,source
+Cytokine-cytokine receptor interaction,0.1995129614769517,1,286,25,1.0,stLearn,source
+Human papillomavirus infection,0.2374133589534184,1,348,25,1.0,stLearn,source
+PI3K-Akt signaling pathway,0.2403936063699895,1,353,25,1.0,stLearn,source
+Pathways in cancer,0.3400186421429294,1,532,25,1.0,stLearn,source
+Cell adhesion molecules (CAMs),4.1978308412131154e-13,8,159,26,1.271942744887574e-10,stLearn,target
+Adherens junction,3.037291886031693e-09,5,72,26,4.601497207338015e-07,stLearn,target
+Neuroactive ligand-receptor interaction,2.88336339562976e-07,6,348,26,2.912197029586057e-05,stLearn,target
+cAMP signaling pathway,2.3244142328559155e-05,4,210,26,0.0017607437813883,stLearn,target
+Regulation of lipolysis in adipocytes,0.0009020954638085,2,55,26,0.0546669851067987,stLearn,target
+Axon guidance,0.0092009303689125,2,180,26,0.4646469836300815,stLearn,target
+Adipocytokine signaling pathway,0.0556547221181217,1,71,26,1.0,stLearn,target
+p53 signaling pathway,0.0556547221181217,1,71,26,1.0,stLearn,target
+Renin secretion,0.0579394983129381,1,74,26,1.0,stLearn,target
+Viral myocarditis,0.0594597285213284,1,76,26,1.0,stLearn,target
+Gap junction,0.067025564320577,1,86,26,1.0,stLearn,target
+Insulin secretion,0.067025564320577,1,86,26,1.0,stLearn,target
+Circadian entrainment,0.0760273355041378,1,98,26,1.0,stLearn,target
+Inflammatory mediator regulation of TRP channels,0.096707861816506,1,126,26,1.0,stLearn,target
+Serotonergic synapse,0.1003536696604442,1,131,26,1.0,stLearn,target
+Calcium signaling pathway,0.1409284863650739,1,188,26,1.0,stLearn,target
+Alcoholism,0.1450956811410592,1,194,26,1.0,stLearn,target
+Herpes simplex virus 1 infection,0.2834049339964467,1,411,26,1.0,stLearn,target
+PI3K-Akt signaling pathway,1.195695240684823e-09,8,353,31,3.6229565792750137e-07,spike,source
+ECM-receptor interaction,1.6021194258615425e-08,5,83,31,2.427210930180237e-06,spike,source
+Proteoglycans in cancer,3.2929518508775776e-08,6,199,31,2.5384390488640603e-06,spike,source
+Neuroactive ligand-receptor interaction,3.3510746519657565e-08,7,348,31,2.5384390488640603e-06,spike,source
+Vascular smooth muscle contraction,2.061236750957007e-07,5,138,31,1.2491094710799465e-05,spike,source
+MAPK signaling pathway,3.2946649685009057e-07,6,294,31,1.6638058090929574e-05,spike,source
+Cell adhesion molecules (CAMs),4.1670727824579684e-07,5,159,31,1.8037472186925204e-05,spike,source
+Pathways in cancer,5.919461612379318e-07,7,532,31,2.2419960856886667e-05,spike,source
+Hypertrophic cardiomyopathy (HCM),1.333372013765012e-06,4,85,31,4.489019113008874e-05,spike,source
+Dilated cardiomyopathy (DCM),1.6035740140659269e-06,4,89,31,4.858829262619759e-05,spike,source
+Ras signaling pathway,2.5663883199354545e-06,5,230,31,7.069233281276752e-05,spike,source
+cGMP-PKG signaling pathway,2.089397784881177e-05,4,170,31,0.0005275729406824,spike,source
+Focal adhesion,3.79268089009007e-05,4,198,31,0.0008839863920748,spike,source
+Renin secretion,4.961383937238043e-05,3,74,31,0.001073785237845,spike,source
+Complement and coagulation cascades,8.32272332477215e-05,3,88,31,0.0016811901116039,spike,source
+Leukocyte transendothelial migration,0.0001793214727036,3,114,31,0.0033959003893253,spike,source
+Human papillomavirus infection,0.0003317102270427,4,348,31,0.0059122469878789,spike,source
+Adrenergic signaling in cardiomyocytes,0.0003637122660247,3,145,31,0.0061224898114163,spike,source
+Tight junction,0.0005397716166167,3,166,31,0.0086079368334143,spike,source
+Hepatocellular carcinoma,0.0005784852127957,3,170,31,0.0087640509738561,spike,source
+Rap1 signaling pathway,0.0010515884033931,3,209,31,0.0146836229531357,spike,source
+cAMP signaling pathway,0.0010661376401616,3,210,31,0.0146836229531357,spike,source
+Regulation of actin cytoskeleton,0.0011561167745556,3,216,31,0.0152305818561028,spike,source
+Leishmaniasis,0.0017872868220337,2,65,31,0.0219273231974404,spike,source
+Long-term potentiation,0.001842039362025,2,66,31,0.0219273231974404,spike,source
+Amphetamine addiction,0.0018975842083833,2,67,31,0.0219273231974404,spike,source
+Renal cell carcinoma,0.0019539198888808,2,68,31,0.0219273231974404,spike,source
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),0.0021871415755331,2,72,31,0.023667996335234,spike,source
+Glioma,0.002370289747812,2,75,31,0.0237796289690942,spike,source
+Pancreatic cancer,0.002370289747812,2,75,31,0.0237796289690942,spike,source
+Pertussis,0.0024328993334716,2,76,31,0.0237796289690942,spike,source
+Salivary secretion,0.0025604500651367,2,78,31,0.0242442615542638,spike,source
+Colorectal cancer,0.0032444585359895,2,88,31,0.0297900283759037,spike,source
+Circadian entrainment,0.0040045047671353,2,98,31,0.035687204248294,spike,source
+AGE-RAGE signaling pathway in diabetic complications,0.0042471329795211,2,101,31,0.0364399142619212,spike,source
+Aldosterone synthesis and secretion,0.0043294947637926,2,102,31,0.0364399142619212,spike,source
+Toxoplasmosis,0.0047523833244443,2,107,31,0.0389181661434224,spike,source
+Neurotrophin signaling pathway,0.0060334747207185,2,121,31,0.0460264565238225,spike,source
+Sphingolipid signaling pathway,0.0061303821500942,2,122,31,0.0460264565238225,spike,source
+Osteoclast differentiation,0.0062280023679099,2,123,31,0.0460264565238225,spike,source
+Platelet activation,0.0062280023679099,2,123,31,0.0460264565238225,spike,source
+Dopaminergic synapse,0.0070344608450562,2,131,31,0.0507486103821918,spike,source
+Estrogen signaling pathway,0.0073484791593904,2,134,31,0.0517811438440767,spike,source
+Fluid shear stress and atherosclerosis,0.0082164091539512,2,142,31,0.056581181219255,spike,source
+Phospholipase D signaling pathway,0.0088961975859052,2,148,31,0.0593608340850432,spike,source
+Gastric cancer,0.0090118758016897,2,149,31,0.0593608340850432,spike,source
+Alzheimer disease,0.0109538408466648,2,165,31,0.070617314394456,spike,source
+Phagosome,0.0112084968742377,2,167,31,0.0707536365186258,spike,source
+Cellular senescence,0.0121202966142916,2,174,31,0.0742540299787941,spike,source
+Tuberculosis,0.012253140260527,2,175,31,0.0742540299787941,spike,source
+Axon guidance,0.0129269750915988,2,180,31,0.076801440250087,spike,source
+Calcium signaling pathway,0.014038140955482,2,188,31,0.0817991674905972,spike,source
+Alcoholism,0.0148978588317695,2,194,31,0.0851707778495502,spike,source
+Kaposi sarcoma-associated herpesvirus infection,0.0165316833274108,2,205,31,0.0927611120038052,spike,source
+Phototransduction,0.0256144989389442,1,27,31,0.1411126032454567,spike,source
+Renin-angiotensin system,0.0321509424651127,1,34,31,0.1739595636951634,spike,source
+Nicotine addiction,0.0377198170845376,1,40,31,0.2005106066072793,spike,source
+Vasopressin-regulated water reabsorption,0.0404926134268583,1,43,31,0.2115389977299666,spike,source
+Malaria,0.0441776500890157,1,47,31,0.2268784402876569,spike,source
+Amyotrophic lateral sclerosis (ALS),0.0487646892523513,1,52,31,0.2462616807243745,spike,source
+Regulation of lipolysis in adipocytes,0.0515066794401288,1,55,31,0.2558446536124434,spike,source
+Inflammatory bowel disease (IBD),0.0542410199388178,1,58,31,0.2650811135719646,spike,source
+Long-term depression,0.0560596739681348,1,60,31,0.2696203367038866,spike,source
+Non-small cell lung cancer,0.0614953528559726,1,66,31,0.2911420611774954,spike,source
+Cortisol synthesis and secretion,0.064201820603668,1,69,31,0.2992792560447909,spike,source
+Melanoma,0.0669007344857005,1,72,31,0.3061005093589303,spike,source
+Bacterial invasion of epithelial cells,0.0686958238825322,1,74,31,0.3061005093589303,spike,source
+Gastric acid secretion,0.0686958238825322,1,74,31,0.3061005093589303,spike,source
+Chronic myeloid leukemia,0.0704875710916978,1,76,31,0.309532377402673,spike,source
+Rheumatoid arthritis,0.0749523564952538,1,81,31,0.3244366288294561,spike,source
+ErbB signaling pathway,0.0776212582070753,1,84,31,0.3312569188273777,spike,source
+GnRH signaling pathway,0.0829367242968978,1,90,31,0.3421958767496353,spike,source
+TGF-beta signaling pathway,0.0829367242968978,1,90,31,0.3421958767496353,spike,source
+Morphine addiction,0.0838197484170033,1,91,31,0.3421958767496353,spike,source
+Small cell lung cancer,0.0847019496905038,1,92,31,0.3421958767496353,spike,source
+Prostate cancer,0.0891006392795723,1,97,31,0.352946622330855,spike,source
+Phosphatidylinositol signaling system,0.089977919016814,1,98,31,0.352946622330855,spike,source
+Melanogenesis,0.091730026213572,1,100,31,0.352946622330855,spike,source
+Glucagon signaling pathway,0.0926048551459124,1,101,31,0.352946622330855,spike,source
+Chagas disease (American trypanosomiasis),0.0934788686150425,1,102,31,0.352946622330855,spike,source
+Amoebiasis,0.0943520673557731,1,103,31,0.352946622330855,spike,source
+Insulin resistance,0.098705865807111,1,108,31,0.3647302114579836,spike,source
+C-type lectin receptor signaling pathway,0.1013084150258748,1,111,31,0.3673051763372371,spike,source
+Glutamatergic synapse,0.1030394059031853,1,113,31,0.3673051763372371,spike,source
+Natural killer cell mediated cytotoxicity,0.1030394059031853,1,113,31,0.3673051763372371,spike,source
+Oocyte meiosis,0.1047671700296537,1,115,31,0.3691215409184311,spike,source
+Cell cycle,0.1116460751727829,1,123,31,0.387365988284147,spike,source
+Lysosome,0.1125023332310393,1,124,31,0.387365988284147,spike,source
+Inflammatory mediator regulation of TRP channels,0.1142124538977357,1,126,31,0.388835657651842,spike,source
+Ribosome,0.1167716570674637,1,129,31,0.3931312454604611,spike,source
+FoxO signaling pathway,0.1193237040777578,1,132,31,0.3973085970940729,spike,source
+Apelin signaling pathway,0.1227153350500691,1,136,31,0.3994840013493238,spike,source
+Signaling pathways regulating pluripotency of stem cells,0.123561265704629,1,137,31,0.3994840013493238,spike,source
+Insulin signaling pathway,0.1244064069502168,1,138,31,0.3994840013493238,spike,source
+Retrograde endocannabinoid signaling,0.1252507594989629,1,139,31,0.3994840013493238,spike,source
+Measles,0.127779092076156,1,142,31,0.4033027593653674,spike,source
+Breast cancer,0.1319772720538444,1,147,31,0.4122589013640708,spike,source
+Oxytocin signaling pathway,0.136989279333079,1,153,31,0.4235484861012547,spike,source
+Hippo signaling pathway,0.1411445481351488,1,158,31,0.4301790242894011,spike,source
+Cushing syndrome,0.1419732753430366,1,159,31,0.4301790242894011,spike,source
+Hepatitis B,0.1452804523117151,1,163,31,0.4358413569351456,spike,source
+Human immunodeficiency virus 1 infection,0.1973242108179965,1,228,31,0.5861689791946368,spike,source
+Human T-cell leukemia virus 1 infection,0.2027424457029338,1,235,31,0.5964170975532909,spike,source
+Human cytomegalovirus infection,0.2104214248257455,1,245,31,0.6130547280980855,spike,source
+Cytokine-cytokine receptor interaction,0.2411636207004241,1,286,31,0.6959293054497956,spike,source
+Olfactory transduction,0.6611175446234017,1,1107,31,1.0,spike,source
+PI3K-Akt signaling pathway,1.195695240684823e-09,8,353,31,3.6229565792750137e-07,spike,target
+ECM-receptor interaction,1.6021194258615425e-08,5,83,31,2.427210930180237e-06,spike,target
+Proteoglycans in cancer,3.2929518508775776e-08,6,199,31,2.5384390488640603e-06,spike,target
+Neuroactive ligand-receptor interaction,3.3510746519657565e-08,7,348,31,2.5384390488640603e-06,spike,target
+Ras signaling pathway,2.5663883199354545e-06,5,230,31,0.000155523132188,spike,target
+MAPK signaling pathway,8.470000016511529e-06,5,294,31,0.0003824393611767,spike,target
+Vascular smooth muscle contraction,9.192438387490203e-06,4,138,31,0.0003824393611767,spike,target
+Pathways in cancer,1.00974088759535e-05,6,532,31,0.0003824393611767,spike,target
+Focal adhesion,3.79268089009007e-05,4,198,31,0.0012768692329969,spike,target
+cAMP signaling pathway,4.769106636754337e-05,4,210,31,0.0013666357572573,spike,target
+Renin secretion,4.961383937238043e-05,3,74,31,0.0013666357572573,spike,target
+Hypertrophic cardiomyopathy (HCM),7.505642398866524e-05,3,85,31,0.0018628996264223,spike,target
+Complement and coagulation cascades,8.32272332477215e-05,3,88,31,0.0018628996264223,spike,target
+Dilated cardiomyopathy (DCM),8.60745701977327e-05,3,89,31,0.0018628996264223,spike,target
+Platelet activation,0.0002243589722445,3,123,31,0.0045320512393399,spike,target
+Human papillomavirus infection,0.0003317102270427,4,348,31,0.0062817624246213,spike,target
+Cell adhesion molecules (CAMs),0.0004761021739375,3,159,31,0.0084858211001803,spike,target
+Alzheimer disease,0.0005303606288734,3,165,31,0.0089277372527023,spike,target
+Alcoholism,0.0008482985171626,3,194,31,0.013528128984225,spike,target
+Rap1 signaling pathway,0.0010515884033931,3,209,31,0.0159315643114067,spike,target
+Regulation of actin cytoskeleton,0.0011561167745556,3,216,31,0.0166811134614459,spike,target
+Regulation of lipolysis in adipocytes,0.0012836635533406,2,55,31,0.0176795480301011,spike,target
+Long-term potentiation,0.001842039362025,2,66,31,0.0239570006308399,spike,target
+Amphetamine addiction,0.0018975842083833,2,67,31,0.0239570006308399,spike,target
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),0.0021871415755331,2,72,31,0.0265081558954621,spike,target
+Glioma,0.002370289747812,2,75,31,0.0273025369645156,spike,target
+Pertussis,0.0024328993334716,2,76,31,0.0273025369645156,spike,target
+Circadian entrainment,0.0040045047671353,2,98,31,0.0433344623014999,spike,target
+Aldosterone synthesis and secretion,0.0043294947637926,2,102,31,0.0452357556354884,spike,target
+Neurotrophin signaling pathway,0.0060334747207185,2,121,31,0.0608737005637653,spike,target
+Osteoclast differentiation,0.0062280023679099,2,123,31,0.0608737005637653,spike,target
+Dopaminergic synapse,0.0070344608450562,2,131,31,0.0666075511266267,spike,target
+Estrogen signaling pathway,0.0073484791593904,2,134,31,0.067472399554403,spike,target
+Fluid shear stress and atherosclerosis,0.0082164091539512,2,142,31,0.0732227051072712,spike,target
+Adrenergic signaling in cardiomyocytes,0.0085532352369562,2,145,31,0.0740465793370787,spike,target
+Phospholipase D signaling pathway,0.0088961975859052,2,148,31,0.0748763296813695,spike,target
+Phagosome,0.0112084968742377,2,167,31,0.0900871487340715,spike,target
+Hepatocellular carcinoma,0.0115953755796329,2,170,31,0.0900871487340715,spike,target
+cGMP-PKG signaling pathway,0.0115953755796329,2,170,31,0.0900871487340715,spike,target
+Tuberculosis,0.012253140260527,2,175,31,0.0928175374734926,spike,target
+Axon guidance,0.0129269750915988,2,180,31,0.0955334988476692,spike,target
+Kaposi sarcoma-associated herpesvirus infection,0.0165316833274108,2,205,31,0.1192642868620353,spike,target
+Phototransduction,0.0256144989389442,1,27,31,0.1804928646162819,spike,target
+Renin-angiotensin system,0.0321509424651127,1,34,31,0.2214030810665716,spike,target
+Nicotine addiction,0.0377198170845376,1,40,31,0.2539801017025538,spike,target
+Vasopressin-regulated water reabsorption,0.0404926134268583,1,43,31,0.2667230840943058,spike,target
+Amyotrophic lateral sclerosis (ALS),0.0487646892523513,1,52,31,0.3143766136906909,spike,target
+Long-term depression,0.0560596739681348,1,60,31,0.353876691923851,spike,target
+Leishmaniasis,0.060591514772731,1,65,31,0.3699370317536649,spike,target
+Non-small cell lung cancer,0.0614953528559726,1,66,31,0.3699370317536649,spike,target
+Renal cell carcinoma,0.0633005050142413,1,68,31,0.3699370317536649,spike,target
+Cortisol synthesis and secretion,0.064201820603668,1,69,31,0.3699370317536649,spike,target
+Adipocytokine signaling pathway,0.0660019345841704,1,71,31,0.3699370317536649,spike,target
+Melanoma,0.0669007344857005,1,72,31,0.3699370317536649,spike,target
+Bacterial invasion of epithelial cells,0.0686958238825322,1,74,31,0.3699370317536649,spike,target
+Gastric acid secretion,0.0686958238825322,1,74,31,0.3699370317536649,spike,target
+Pancreatic cancer,0.0695921148843528,1,75,31,0.3699370317536649,spike,target
+Salivary secretion,0.072275982128802,1,78,31,0.3775796997418449,spike,target
+Antigen processing and presentation,0.0740610629989945,1,80,31,0.3803474930287346,spike,target
+ErbB signaling pathway,0.0776212582070753,1,84,31,0.3919873539457303,spike,target
+Colorectal cancer,0.0811682045487082,1,88,31,0.401010793065979,spike,target
+GnRH signaling pathway,0.0829367242968978,1,90,31,0.401010793065979,spike,target
+Morphine addiction,0.0838197484170033,1,91,31,0.401010793065979,spike,target
+Small cell lung cancer,0.0847019496905038,1,92,31,0.401010793065979,spike,target
+Prostate cancer,0.0891006392795723,1,97,31,0.4066561030320504,spike,target
+Phosphatidylinositol signaling system,0.089977919016814,1,98,31,0.4066561030320504,spike,target
+Melanogenesis,0.091730026213572,1,100,31,0.4066561030320504,spike,target
+AGE-RAGE signaling pathway in diabetic complications,0.0926048551459124,1,101,31,0.4066561030320504,spike,target
+Glucagon signaling pathway,0.0926048551459124,1,101,31,0.4066561030320504,spike,target
+Toxoplasmosis,0.0978367297085643,1,107,31,0.4176901647234878,spike,target
+Insulin resistance,0.098705865807111,1,108,31,0.4176901647234878,spike,target
+C-type lectin receptor signaling pathway,0.1013084150258748,1,111,31,0.4176901647234878,spike,target
+Glutamatergic synapse,0.1030394059031853,1,113,31,0.4176901647234878,spike,target
+Natural killer cell mediated cytotoxicity,0.1030394059031853,1,113,31,0.4176901647234878,spike,target
+Leukocyte transendothelial migration,0.1039036909466082,1,114,31,0.4176901647234878,spike,target
+Oocyte meiosis,0.1047671700296537,1,115,31,0.4176901647234878,spike,target
+Sphingolipid signaling pathway,0.1107890176703042,1,122,31,0.4359619786247038,spike,target
+Lysosome,0.1125023332310393,1,124,31,0.4370282944744222,spike,target
+Inflammatory mediator regulation of TRP channels,0.1142124538977357,1,126,31,0.4380553611520752,spike,target
+Ribosome,0.1167716570674637,1,129,31,0.4422726511430188,spike,target
+Serotonergic synapse,0.1184738156746328,1,131,31,0.443179829005108,spike,target
+Apelin signaling pathway,0.1227153350500691,1,136,31,0.4464821191551266,spike,target
+Signaling pathways regulating pluripotency of stem cells,0.123561265704629,1,137,31,0.4464821191551266,spike,target
+Insulin signaling pathway,0.1244064069502168,1,138,31,0.4464821191551266,spike,target
+Retrograde endocannabinoid signaling,0.1252507594989629,1,139,31,0.4464821191551266,spike,target
+Measles,0.127779092076156,1,142,31,0.4501984290590148,spike,target
+Breast cancer,0.1319772720538444,1,147,31,0.4596449819806307,spike,target
+Gastric cancer,0.1336510628860191,1,149,31,0.4601849097098157,spike,target
+Oxytocin signaling pathway,0.136989279333079,1,153,31,0.4663792318867749,spike,target
+Cushing syndrome,0.1419732753430366,1,159,31,0.4779766936548901,spike,target
+Tight junction,0.1477527361090471,1,166,31,0.491967901549904,spike,target
+Cellular senescence,0.1543117074231644,1,174,31,0.5082222537958568,spike,target
+Calcium signaling pathway,0.1656725442939554,1,188,31,0.5397718378609516,spike,target
+Human immunodeficiency virus 1 infection,0.1973242108179965,1,228,31,0.636055700828223,spike,target
+Human cytomegalovirus infection,0.2104214248257455,1,245,31,0.6711335970757988,spike,target
+Herpes simplex virus 1 infection,0.3279085101647182,1,411,31,1.0,spike,target
+Olfactory transduction,0.6611175446234017,1,1107,31,1.0,spike,target

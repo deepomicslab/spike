@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "reference_date": "2026-10-13",
+  "executed_code_cells": {
+    "2": 7,
+    "3": 8,
+    "4": 9,
+    "5": 7
+  },
+  "total_executed_cells": 31,
+  "tables": 33,
+  "gene_count_runs": 420,
+  "ncam1_directed_edges": 302,
+  "benchmark_spike_mean": {
+    "expression_r": 0.9972883948801732,
+    "expression_rmse": 0.0349922519638086,
+    "response_auc": 0.8202515910348648,
+    "Corr": 0.9811745343278855,
+    "cosine_mean": 0.9279068810131962
+  },
+  "checks": [
+    "input SHA-256",
+    "all notebook cells executed in fresh kernels",
+    "complete panel coverage and output hashes",
+    "published rounded benchmark values",
+    "shared spatial spot axes",
+    "no duplicate distribution observations",
+    "420 balanced gene-count runs",
+    "5k gene-count and benchmark equality",
+    "302-edge route denominator",
+    "historical paired Wilcoxon/Holm values"
+  ],
+  "visual_review": "All four regenerated complete PDFs reviewed alongside manuscript figure references; panel content, order and annotations checked. Font rasterization and spacing are not asserted pixel-identical.",
+  "reference_images_used_as_plot_inputs": false
+}

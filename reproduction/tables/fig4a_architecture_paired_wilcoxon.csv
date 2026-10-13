@@ -1,0 +1,7 @@
+metric,reference,variant,n_dataset_pairs,alternative,method,p_value,p_holm,correction_family
+Pearson,spike,single_decoder,7,two-sided,exact,0.015625,0.046875,three comparisons within metric
+Pearson,spike,standard_gat,7,two-sided,exact,0.015625,0.046875,three comparisons within metric
+Pearson,spike,no_edge,7,two-sided,exact,0.015625,0.046875,three comparisons within metric
+RMSE,spike,single_decoder,7,two-sided,exact,0.015625,0.046875,three comparisons within metric
+RMSE,spike,standard_gat,7,two-sided,exact,0.015625,0.046875,three comparisons within metric
+RMSE,spike,no_edge,7,two-sided,exact,0.015625,0.046875,three comparisons within metric

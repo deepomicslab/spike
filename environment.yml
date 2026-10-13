@@ -1,0 +1,29 @@
+name: paper-spike
+channels:
+  - pytorch
+  - nvidia
+  - pyg
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=11.8
+  - pyg
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - h5py
+  - pytables
+  - pyyaml
+  - tqdm
+  - joblib
+  - pip:
+      - absl-py
+      - anndata
+      - ml-collections
+      - scanpy

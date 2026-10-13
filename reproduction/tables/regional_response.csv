@@ -1,0 +1,3 @@
+stratum,n_cells,spearman_pred_vs_obs,n_specific_down_genes,frac_specific_down_reproduced,spearman_pred_vs_obs_sd,frac_specific_down_reproduced_sd
+distal,168.0,0.6118445859573791,39.0,0.8632478632478633,0.0376321139028198,0.0645284994467585
+proximal,285.0,0.6004127457057097,216.0,0.9043209876543208,0.0144024637406772,0.0053458358258298

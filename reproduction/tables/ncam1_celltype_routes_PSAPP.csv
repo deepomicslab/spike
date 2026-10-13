@@ -1,0 +1,19 @@
+sender_type,receiver_type,n,percent_all_edges
+Astrocyte,Astrocyte,10,3.3112582781456954
+Astrocyte,Neuron,16,5.298013245033113
+Astrocyte,Oligodendrocyte,8,2.6490066225165565
+Astrocyte,Pericyte,8,2.6490066225165565
+Microglial Cell,Neuron,3,0.9933774834437086
+Neuron,Astrocyte,16,5.298013245033113
+Neuron,Microglial Cell,3,0.9933774834437086
+Neuron,Neuron,104,34.437086092715234
+Neuron,Oligodendrocyte,2,0.6622516556291391
+Neuron,Pericyte,11,3.642384105960265
+Oligodendrocyte,Astrocyte,8,2.6490066225165565
+Oligodendrocyte,Neuron,2,0.6622516556291391
+Oligodendrocyte,Oligodendrocyte,80,26.490066225165563
+Oligodendrocyte,Pericyte,1,0.33112582781456956
+Pericyte,Astrocyte,8,2.6490066225165565
+Pericyte,Neuron,11,3.642384105960265
+Pericyte,Oligodendrocyte,1,0.33112582781456956
+Pericyte,Pericyte,10,3.3112582781456954

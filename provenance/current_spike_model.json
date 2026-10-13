@@ -1,0 +1,61 @@
+{
+  "schema": "spike-model-source-v1",
+  "model_revision": "conditional_residual_v1_validation_selected",
+  "original_module": "figures/shared/conditional_residual.py",
+  "packaged_module": "perturb/models/conditional_residual.py",
+  "original_sha256": "3d0393f13e364f1961bfc644ca0fc650e25379d6826f8ccf8a886ab81216c2d9",
+  "packaged_sha256": "d77e2474fa11fd8f54243b572e5d999a78b9be7312c862e8a24e26f3d141d396",
+  "adaptations": [
+    {
+      "operation": "remove_unused_import",
+      "line": "from figures.paths import ROOT as _PROJECT_ROOT, source_path",
+      "reason": "The two imported names are unused; removing the import keeps this module independent of the figure package."
+    }
+  ],
+  "source_snapshots": [
+    {
+      "package": "S4_S5_State_data_addendum_20261001",
+      "file": "provenance/project/figures/shared/conditional_residual.py",
+      "sha256": "3d0393f13e364f1961bfc644ca0fc650e25379d6826f8ccf8a886ab81216c2d9",
+      "manifest": "manifest.json",
+      "manifest_sha256": "86ec3196533547b3a0c377188547e1c84155884756550c692571c3c664910db1"
+    },
+    {
+      "package": "spike_fixed_graph_sync_20261005",
+      "file": "payload/figures/shared/conditional_residual.py",
+      "sha256": "3d0393f13e364f1961bfc644ca0fc650e25379d6826f8ccf8a886ab81216c2d9",
+      "manifest": "SHA256SUMS.json",
+      "manifest_sha256": "2160291ac63b24c8e11fa7536c045f9fb23dbdf06dcbafd29cdf7ae26966fb4c"
+    },
+    {
+      "package": "spike_component_full_predictions_20261008",
+      "file": "provenance/conditional_residual.py",
+      "sha256": "3d0393f13e364f1961bfc644ca0fc650e25379d6826f8ccf8a886ab81216c2d9",
+      "manifest": "SHA256SUMS.json",
+      "manifest_sha256": "634c12b5093363fc7ae89c556200d95399723f6ce249b34baff5c05bb7f153fb"
+    }
+  ],
+  "frozen_5000_gene_selected_arms": {
+    "WT": "graph",
+    "PSAPP": "graph",
+    "brain_sleep1": "graph",
+    "brain_sleep2": "graph",
+    "brain_sleep3": "expression_only",
+    "brain_sleep4": "graph",
+    "SHH": "expression_only"
+  },
+  "selection_sources": [
+    {
+      "file": "experiments/spike_neighborhood_retraining_20260914/selection.json",
+      "sha256": "a21c090afe8912bc2e6c7e760a2086f0ddb97f205fa0af19e44b60fbfe565ccb",
+      "status": "FROZEN_BEFORE_TEST_INFERENCE"
+    },
+    {
+      "file": "experiments/spike_neighborhood_remaining_20260914/selection.json",
+      "sha256": "31266aeb728539d13b344a934c8719dc242fd1c992d5dee71f09b360da287cd6",
+      "status": "FROZEN_BEFORE_TEST_INFERENCE"
+    }
+  ],
+  "time_feature": "none",
+  "scope": "Model definition and normalization only; no training, checkpoint conversion or model reselection."
+}

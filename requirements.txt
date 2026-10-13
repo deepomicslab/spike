@@ -1,0 +1,16 @@
+absl-py
+anndata
+h5py
+joblib
+ml-collections
+numpy
+pandas
+pyyaml
+scanpy
+scikit-learn
+scipy
+tables
+tqdm
+
+# Install compatible PyTorch / PyG dependencies separately for your CPU or CUDA runtime.
+# These are shared data/comparator dependencies, not a model environment lockfile.
