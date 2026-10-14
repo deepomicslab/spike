@@ -2,7 +2,9 @@
 
 This directory contains the portable drawing code and **33 numerical tables** for manuscript Figures 2–5. Run the [notebooks](../notebooks/README.md) or `python scripts/execute_figure_notebooks.py` from the repository root.
 
-The reference is the manuscript **Spike enables spatially informed and biologically interpretable analysis of cellular reprogramming**, snapshot dated 2026-10-13. `manifest.json` identifies the reference PDF and four manuscript figure images by SHA-256, lists source files relative to the supplied DrugPerturb data package, and records the checksums of the portable CSV files. Those upstream paths are provenance records, not runtime dependencies.
+The numerical reference is the manuscript **Spike enables spatially informed and biologically interpretable analysis of cellular reprogramming**, snapshot dated 2026-10-13. `manifest.json` preserves that original reference PDF and four manuscript figure image hashes, lists source files relative to the supplied DrugPerturb data package, and records the checksums of the portable CSV files. Those upstream paths are provenance records, not runtime dependencies.
+
+Dataset display names were aligned with the manuscript on 2026-10-14: **RHY 1–4** denote the four rhynchophylline-versus-saline mouse brain datasets. Plot labels, notebook table previews and reference illustrations use these names. `common.DATASET_LABELS` maps the unchanged internal keys to display names; `display_table()` labels a copy for presentation only. CSV contents, source paths, model selections and the original input manifest remain unchanged. See the [name mapping](../README.md#dataset-names).
 
 ## Sources and display rules
 
@@ -19,7 +21,7 @@ The reference is the manuscript **Spike enables spatially informed and biologica
 | 4C/D | `module_enrichment.csv`, `go_enrichment.csv` | Plot unadjusted enrichment P-values; show module overlap counts |
 | 4E | `rt_spike.csv`, `rt_state.csv`, `rt_scGPT.csv`, `rt_scGen.csv`, `rt_CellOT.csv` | Select the recorded network display subset and min–max normalize against each complete aggregate table |
 | 4F | `spike_tf_links.csv`, `spike_tg_links.csv`, `state_tf_links.csv`, `state_tg_links.csv` | Draw weighted cascades with common node limits |
-| 4G | `reprogramming_distributions.csv` | Draw the brain_sleep1 Ttr positive-expression KDE |
+| 4G | `reprogramming_distributions.csv` | Draw the RHY 1 Ttr positive-expression KDE |
 | 5A/B | `fig4a_architecture_ablation_per_seed.csv`, `fig4b_architecture_means.csv` | Historical dataset-level box/violin summaries; recompute paired Wilcoxon/Holm annotations |
 | 5C | `original_spatial_values.csv`, `spatial_plot_coordinates.csv` | Historical SHH/Map1b predictions on physical coordinates |
 | 5D | `fig4e_lr_candidates.csv`, `fig4e_lr_summary.csv` | Plot historical LR agreement and descriptive Full-model maxima |
@@ -30,7 +32,7 @@ The original `kegg_highlights_PSAPP.csv` includes an older six-highlight policy.
 ## Preparation of portable tables
 
 - `benchmark.csv` is a byte-preserved copy of the released `tf_cosine_manuscript_update_20261009/figure2b_source.csv` containing all 35 dataset/method combinations.
-- Spatial and distribution tables retain the released observations and comparator predictions. The Spike brain_sleep3 map uses the graph export. State values are aligned by explicit spot/gene IDs across matched split-42 seeds 41/42/43, converted to nonnegative CPM10,000/log1p and averaged cellwise. The old split-0 State populations are not mixed into those plots.
+- Spatial and distribution tables retain the released observations and comparator predictions. The Spike RHY 3 map uses the graph export. State values are aligned by explicit spot/gene IDs across matched split-42 seeds 41/42/43, converted to nonnegative CPM10,000/log1p and averaged cellwise. The old split-0 State populations are not mixed into those plots.
 - The `rt_*.csv` tables retain every scored receptor/TF pair after mean aggregation of released cell-level support. Drawing uses those complete aggregates for normalization, not the selected display subset.
 - Gene-count tables combine the released graph scores, existing scGen/scGPT/CellOT metrics and matched State metrics. Method spelling is standardized; no run is trained, selected or dropped.
 - Historical ablation tables are preserved and remain separate from current conditional-residual results.

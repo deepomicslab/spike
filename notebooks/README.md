@@ -44,7 +44,7 @@ Optional environment variables:
 
 ## Which results are reproduced?
 
-The notebook numbers are **manuscript numbers**, corresponding to the 13 October 2026 PDF. Historical plotting-package IDs 1–4 correspond to manuscript Figures 2–5; they are not used as notebook labels.
+The notebook numbers are **manuscript numbers**, corresponding to the 13 October 2026 numerical snapshot. Dataset display names were updated on 14 October 2026: **RHY 1–4** replace the legacy mouse brain labels in captions, plots, table previews and reference illustrations. The [name mapping](../README.md#dataset-names) preserves all original CSV keys and provenance paths. Historical plotting-package IDs 1–4 correspond to manuscript Figures 2–5; they are not used as notebook labels.
 
 The manuscript uses released graph Spike predictions across all seven datasets and matched split-42 State results, seeds 41/42/43. This is explicitly separate from the original frozen graph/expression-only selection. Figure 5A–D retain their historical architecture results; E uses conditional-residual results. The original model source, frozen choices and active pointer are unchanged.
 

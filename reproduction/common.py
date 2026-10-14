@@ -12,12 +12,26 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = Path(os.environ.get('SPIKE_FIGURE_DATA', ROOT / 'reproduction')).expanduser().resolve()
 OUTPUT = Path(os.environ.get('SPIKE_FIGURE_OUTPUT', ROOT / 'outputs/reproduction')).expanduser().resolve()
 DATASETS = ['brain_sleep1', 'brain_sleep2', 'brain_sleep3', 'brain_sleep4', 'WT', 'SHH', 'PSAPP']
+# Keep the released table/provenance keys stable; use manuscript names for display.
+DATASET_LABELS = {
+    'brain_sleep1': 'RHY 1', 'brain_sleep2': 'RHY 2',
+    'brain_sleep3': 'RHY 3', 'brain_sleep4': 'RHY 4',
+    'WT': 'WT', 'SHH': 'SHH', 'PSAPP': 'PSAPP',
+}
 METHODS = ['spike', 'state', 'scGen', 'scGPT', 'CellOT']
 LABELS = dict(spike='Spike', state='State', scGen='scGen', scGPT='scGPT', CellOT='CellOT')
 COLORS = dict(spike='#b3cde3', state='#ccebc5', scGen='#decbe4', scGPT='#fed9a6', CellOT='#f2c230')
 STYLE = {'font.family': 'DejaVu Sans', 'font.size': 10, 'axes.spines.top': False,
          'axes.spines.right': False, 'svg.fonttype': 'none', 'pdf.fonttype': 42}
 plt.rcParams.update(STYLE)
+
+def display_table(frame):
+    """Return a presentation-only copy without changing numerical input keys."""
+    result = frame.copy()
+    for column in ('dataset', 'Dataset'):
+        if column in result.columns:
+            result[column] = result[column].replace(DATASET_LABELS)
+    return result
 
 def sha(path):
     return hashlib.sha256(Path(path).read_bytes()).hexdigest()

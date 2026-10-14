@@ -40,10 +40,13 @@ The graph contribution is scaled by `0.5`, and the residual head is zero-initial
 
 ## Frozen publication choices
 
-At 5,000 genes, graph is selected for WT, PSAPP, brain_sleep1, brain_sleep2 and
-brain_sleep4; expression-only is selected for brain_sleep3 and SHH. Seeds 41/42/43
+At 5,000 genes, graph is selected for WT, PSAPP, RHY 1, RHY 2 and
+RHY 4; expression-only is selected for RHY 3 and SHH. Seeds 41/42/43
 measure optimization variability. Gene-count experiments have their own frozen
 selection records; the 5,000-gene choices must not be applied to them automatically.
+
+RHY 1–4 are manuscript display names for the rhynchophylline mouse brain datasets.
+The [data/code identifiers](../README.md#dataset-names) and frozen selection records are unchanged.
 
 The original training objective is population gene-mean MSE + neighborhood contrast
 MSE + `0.01 * mean(delta ** 2)`. The loss and training loop are outside this model

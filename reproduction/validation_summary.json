@@ -18,8 +18,18 @@
     "Corr": 0.9811745343278855,
     "cosine_mean": 0.9279068810131962
   },
+  "dataset_display_names": {
+    "brain_sleep1": "RHY 1",
+    "brain_sleep2": "RHY 2",
+    "brain_sleep3": "RHY 3",
+    "brain_sleep4": "RHY 4",
+    "WT": "WT",
+    "SHH": "SHH",
+    "PSAPP": "PSAPP"
+  },
   "checks": [
     "input SHA-256",
+    "dataset display labels and non-mutating table previews",
     "all notebook cells executed in fresh kernels",
     "complete panel coverage and output hashes",
     "published rounded benchmark values",

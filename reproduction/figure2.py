@@ -6,7 +6,7 @@ from matplotlib.colors import to_rgb,to_rgba
 from matplotlib.patches import Rectangle
 from scipy.stats import gaussian_kde
 import seaborn as sns
-from .common import read,combine,DATASETS,METHODS,LABELS,COLORS
+from .common import read,combine,DATASETS,DATASET_LABELS,METHODS,LABELS,COLORS
 
 OFFSETS=np.array([-.20,.12,-.11,.21,.04,-.04,-.26])
 def panel_a():
@@ -88,7 +88,7 @@ def panel_e():
         ax.set(xlim=(0,.30),ylim=(6.55,-.55),yticks=range(7),xticks=[0,.3],xticklabels=['0','0.3'])
         ax.tick_params(axis='x',labelsize=10);ax.tick_params(axis='y',labelsize=10.5,length=0,pad=8)
         ax.get_xticklabels()[0].set_ha('left');ax.get_xticklabels()[-1].set_ha('right')
-        if i==0:ax.set_yticklabels(DATASETS)
+        if i==0:ax.set_yticklabels([DATASET_LABELS[d] for d in DATASETS])
         ax.spines['left'].set_visible(False);ax.grid(axis='y',color='white');ax.set_axisbelow(True)
     fig.text(.59,.065,'Mean $W_1$ distance ←',ha='center',fontsize=12)
     return fig

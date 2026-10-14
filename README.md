@@ -59,9 +59,24 @@ Run these commands from the repository root. The model is a source module, not a
 
 ## Data and reproducibility
 
+### Dataset names
+
+**RHY 1–4** denote the four mouse brain Visium datasets comparing saline controls with rhynchophylline (RHY) treatment. Each dataset contains a control section and a treated section; spots are not paired between sections.
+
+| Manuscript display name | Stable data/code identifier |
+| --- | --- |
+| RHY 1 | `brain_sleep1` |
+| RHY 2 | `brain_sleep2` |
+| RHY 3 | `brain_sleep3` |
+| RHY 4 | `brain_sleep4` |
+
+WT, SHH and PSAPP retain their existing names. Documentation, plot labels and notebook table previews use the manuscript display names. Original CSV identifiers, data paths and frozen provenance records are unchanged for reproducibility. The display mapping is defined in [`reproduction/common.py`](reproduction/common.py).
+
+### Reproduction snapshot
+
 Each figure notebook validates the supplied table hashes, draws every panel from CSV values, and writes fresh PNG/PDF/SVG files under `outputs/reproduction/figureN/`. The full figure is assembled from those newly drawn panels in memory. The notebooks never use `notebooks/manuscript/*.png` as plotting inputs.
 
-The figure snapshot follows the manuscript available on **13 October 2026**. Its benchmark and gene-count panels use the released seven-dataset graph predictions and matched split-42 State results (training seeds 41/42/43). This is recorded separately from the original validation-selected graph/expression-only model configuration. Reproduction does not train models or change that frozen configuration. Figure 5A–D retain the historical architecture ablation; Figure 5E uses the manuscript conditional-residual results.
+The numerical figure snapshot follows the manuscript available on **13 October 2026**; dataset display names were aligned with the manuscript on **14 October 2026**, without changing the numerical inputs. Its benchmark and gene-count panels use the released seven-dataset graph predictions and matched split-42 State results (training seeds 41/42/43). This is recorded separately from the original validation-selected graph/expression-only model configuration. Reproduction does not train models or change that frozen configuration. Figure 5A–D retain the historical architecture ablation; Figure 5E uses the manuscript conditional-residual results.
 
 [`reproduction/manifest.json`](reproduction/manifest.json) records numerical input hashes and manuscript identity. [`reproduction/README.md`](reproduction/README.md) documents panel sources, plotting semantics and verification. Training seeds quantify optimization variability, not biological replication. Figure reproduction starts from released results; it does not repeat model training.
 

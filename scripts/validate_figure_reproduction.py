@@ -9,12 +9,27 @@ from scipy.stats import wilcoxon
 
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT))
-from reproduction.common import audit,read,sha,OUTPUT,DATASETS
+from reproduction.common import audit,read,sha,OUTPUT,DATASETS,DATASET_LABELS,display_table
 
 def main():
     audit()
     benchmark=read('benchmark.csv')
     assert len(benchmark)==35 and not benchmark.duplicated(['dataset','method']).any()
+    expected_labels=['RHY 1','RHY 2','RHY 3','RHY 4','WT','SHH','PSAPP']
+    assert [DATASET_LABELS[d] for d in DATASETS]==expected_labels
+    original=benchmark.copy(deep=True)
+    preview=display_table(benchmark)
+    pd.testing.assert_frame_equal(benchmark,original)
+    pd.testing.assert_frame_equal(preview.drop(columns='dataset'),benchmark.drop(columns='dataset'))
+    assert preview.dataset.tolist()==[DATASET_LABELS[d] for d in benchmark.dataset]
+    probe=pd.DataFrame({'Dataset':['brain_sleep1','unknown'], 'value':[1.,2.]})
+    assert display_table(probe).Dataset.tolist()==['RHY 1','unknown']
+    assert probe.Dataset.tolist()==['brain_sleep1','unknown']
+    from reproduction.figure2 import panel_e
+    import matplotlib.pyplot as plt
+    label_figure=panel_e()
+    assert [t.get_text() for t in label_figure.axes[0].get_yticklabels()]==expected_labels
+    plt.close(label_figure)
     spike=benchmark[benchmark.method.eq('spike')]
     expected={'expression_r':.9973,'expression_rmse':.0350,'response_auc':.8203,'Corr':.9812,'cosine_mean':.9279}
     for col,value in expected.items():assert round(spike[col].mean(),4)==value,(col,spike[col].mean())
@@ -58,12 +73,14 @@ def main():
         assert [c.execution_count for c in cells]==list(range(1,len(cells)+1))
         report=json.loads((OUTPUT/f'figure{n}/validation.json').read_text())
         assert report['panels']==list(panels)
+        assert report['input_manifest_sha256']==sha(ROOT/'reproduction/manifest.json')
         for name,digest in report['outputs'].items():assert sha(OUTPUT/f'figure{n}'/name)==digest
         for name,digest in report['plotting_code'].items():assert sha(ROOT/'reproduction'/name)==digest
         executed[str(n)]=len(cells)
     result={'status':'PASS','reference_date':'2026-10-13','executed_code_cells':executed,'total_executed_cells':sum(executed.values()),
         'tables':33,'gene_count_runs':420,'ncam1_directed_edges':302,'benchmark_spike_mean':{k:float(spike[k].mean()) for k in expected},
-        'checks':['input SHA-256','all notebook cells executed in fresh kernels','complete panel coverage and output hashes','published rounded benchmark values','shared spatial spot axes','no duplicate distribution observations','420 balanced gene-count runs','5k gene-count and benchmark equality','302-edge route denominator','historical paired Wilcoxon/Holm values'],
+        'dataset_display_names':DATASET_LABELS,
+        'checks':['input SHA-256','dataset display labels and non-mutating table previews','all notebook cells executed in fresh kernels','complete panel coverage and output hashes','published rounded benchmark values','shared spatial spot axes','no duplicate distribution observations','420 balanced gene-count runs','5k gene-count and benchmark equality','302-edge route denominator','historical paired Wilcoxon/Holm values'],
         'visual_review':'All four regenerated complete PDFs reviewed alongside manuscript figure references; panel content, order and annotations checked. Font rasterization and spacing are not asserted pixel-identical.',
         'reference_images_used_as_plot_inputs':False}
     (ROOT/'reproduction/validation_summary.json').write_text(json.dumps(result,indent=2)+'\n')
