@@ -2952,7 +2952,8 @@
           912,
           829
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R01_C02",
@@ -2979,7 +2980,8 @@
           943,
           829
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R01_C03",
@@ -3006,7 +3008,8 @@
           1555,
           902
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R02_C01",
@@ -3033,7 +3036,8 @@
           942,
           669
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R02_C02",
@@ -3060,7 +3064,8 @@
           928,
           669
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R02_C03",
@@ -3087,7 +3092,8 @@
           1555,
           741
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R03_C01",
@@ -3114,7 +3120,8 @@
           932,
           672
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R03_C02",
@@ -3141,7 +3148,8 @@
           1067,
           672
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R03_C03",
@@ -3168,7 +3176,8 @@
           1555,
           745
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R04_C01",
@@ -3195,7 +3204,8 @@
           1022,
           664
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R04_C02",
@@ -3222,7 +3232,8 @@
           1086,
           670
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R04_C03",
@@ -3249,7 +3260,8 @@
           1555,
           742
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R05_C01",
@@ -3276,7 +3288,8 @@
           905,
           674
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R05_C02",
@@ -3303,7 +3316,8 @@
           974,
           674
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R05_C03",
@@ -3330,7 +3344,8 @@
           1555,
           747
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R06_C01",
@@ -3357,7 +3372,8 @@
           914,
           671
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R06_C02",
@@ -3384,7 +3400,8 @@
           949,
           671
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R06_C03",
@@ -3411,7 +3428,8 @@
           1555,
           744
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R07_C01",
@@ -3438,7 +3456,8 @@
           915,
           675
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R07_C02",
@@ -3465,7 +3484,8 @@
           984,
           675
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       },
       {
         "key": "R07_C03",
@@ -3492,17 +3512,18 @@
           1555,
           808
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "Figure 4A cell types and supplementary categories"
       }
     ],
     "format": "lossless original-resolution independent panel PNGs",
     "resampling": false,
-    "drawio_sha256": "66d57499dceb060fef1571321f76800568d535b19f696516cb6c0c57734b8640",
+    "drawio_sha256": "721a597ec7319afbf0bf8b1364c796b981d00c76dc5d67d478eef0b30353496c",
     "export_size": [
       6756,
       10282
     ],
-    "synchronized_date": "2026-11-18",
+    "synchronized_date": "2026-11-22",
     "data_changed": true,
     "trim_expansions": [
       {
@@ -3540,13 +3561,14 @@
     ],
     "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
     "full_svg": "Supplement/FigureS06.svg",
-    "export_sha256": "590af0855725b976a8dfec2a5eda507f71f913349d94c5de16852e04a3b83a26",
+    "export_sha256": "3179320c15f7560613bc77e7dd1aeb8a9316f113f34d6c4941a4f170e18c0347",
     "visual_review": "passed 2026-11-14",
     "all_data_complete": true,
     "previous_figure_numbers": [
       6
     ],
-    "consolidation_data_changed": false
+    "consolidation_data_changed": false,
+    "latest_change": "Figure S6 cell-type maps and composition bars matched to Figure 4A."
   },
   {
     "file": "Supplement/FigureS07.drawio",
