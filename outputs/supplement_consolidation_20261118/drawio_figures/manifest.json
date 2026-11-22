@@ -1645,7 +1645,8 @@
           786,
           692
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R01_C02",
@@ -1672,7 +1673,8 @@
           510,
           692
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R01_C03",
@@ -1699,7 +1701,8 @@
           683,
           692
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R01_C04",
@@ -1726,7 +1729,8 @@
           548,
           692
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R01_C05",
@@ -1753,7 +1757,8 @@
           532,
           692
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R01_C06",
@@ -1780,7 +1785,8 @@
           627,
           692
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R01_C07",
@@ -1834,7 +1840,8 @@
           789,
           501
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R02_C02",
@@ -1861,7 +1868,8 @@
           459,
           501
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R02_C03",
@@ -1888,7 +1896,8 @@
           656,
           501
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R02_C04",
@@ -1915,7 +1924,8 @@
           551,
           501
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R02_C05",
@@ -1942,7 +1952,8 @@
           453,
           501
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R02_C06",
@@ -1969,7 +1980,8 @@
           627,
           501
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R02_C07",
@@ -2023,7 +2035,8 @@
           775,
           512
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R03_C02",
@@ -2050,7 +2063,8 @@
           530,
           488
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R03_C03",
@@ -2077,7 +2091,8 @@
           656,
           512
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R03_C04",
@@ -2104,7 +2119,8 @@
           537,
           512
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R03_C05",
@@ -2131,7 +2147,8 @@
           524,
           488
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R03_C06",
@@ -2158,7 +2175,8 @@
           627,
           512
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R03_C07",
@@ -2212,7 +2230,8 @@
           795,
           441
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R04_C02",
@@ -2239,7 +2258,8 @@
           530,
           446
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R04_C03",
@@ -2266,7 +2286,8 @@
           656,
           441
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R04_C04",
@@ -2293,7 +2314,8 @@
           557,
           441
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R04_C05",
@@ -2320,7 +2342,8 @@
           524,
           446
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R04_C06",
@@ -2347,7 +2370,8 @@
           627,
           441
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R04_C07",
@@ -2401,7 +2425,8 @@
           757,
           514
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R05_C02",
@@ -2428,7 +2453,8 @@
           492,
           514
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R05_C03",
@@ -2455,7 +2481,8 @@
           656,
           514
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R05_C04",
@@ -2482,7 +2509,8 @@
           520,
           514
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R05_C05",
@@ -2509,7 +2537,8 @@
           486,
           514
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R05_C06",
@@ -2536,7 +2565,8 @@
           627,
           514
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R05_C07",
@@ -2590,7 +2620,8 @@
           764,
           507
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R06_C02",
@@ -2617,7 +2648,8 @@
           475,
           507
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R06_C03",
@@ -2644,7 +2676,8 @@
           683,
           507
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R06_C04",
@@ -2671,7 +2704,8 @@
           526,
           507
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R06_C05",
@@ -2698,7 +2732,8 @@
           469,
           507
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R06_C06",
@@ -2725,7 +2760,8 @@
           627,
           507
         ],
-        "source_pixels_match_exactly": true
+        "source_pixels_match_exactly": false,
+        "palette": "vlag"
       },
       {
         "key": "R06_C07",
@@ -2757,12 +2793,12 @@
     ],
     "format": "lossless original-resolution independent panel PNGs",
     "resampling": false,
-    "drawio_sha256": "e5e6b1c813c47d0e290d412882a034dd73ddbb24046addcde202b63c6aa81353",
+    "drawio_sha256": "0e01d8a52be182b1d56b8b4d7f6a2158b22627951b72f1e958b5e68da73cb62c",
     "export_size": [
       8482,
       5960
     ],
-    "synchronized_date": "2026-11-18",
+    "synchronized_date": "2026-11-22",
     "data_changed": true,
     "trim_expansions": [
       {
@@ -2816,13 +2852,14 @@
     ],
     "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
     "full_svg": "Supplement/FigureS04.svg",
-    "export_sha256": "3f7d5e743d930858b1876d94e4e05396b6d4da1a2efb30143aabd88b64887efa",
+    "export_sha256": "29cb6aa32426d7a1843ac7b1f62ca53221a8fab12139d673746ba37a711a684f",
     "visual_review": "passed 2026-11-14",
     "all_data_complete": true,
     "previous_figure_numbers": [
       4
     ],
-    "consolidation_data_changed": false
+    "consolidation_data_changed": false,
+    "latest_change": "Figure S4 ligand and receptor expression maps and colorbars matched to Figure S2 (vlag)."
   },
   {
     "file": "Supplement/FigureS05.drawio",
