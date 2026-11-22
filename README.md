@@ -20,10 +20,10 @@ Spike connects prediction of source-to-target expression changes with interpreta
 The manuscript evaluates expression prediction across seven spatial transcriptomics datasets and examines ligand–receptor associations, receptor–transcription factor support and candidate receptor–TF–target cascades. These analyses prioritize biological hypotheses; inferred links are not direct measurements of causal signaling.
 
 <p align="center">
-  <img src="notebooks/manuscript/figure1.png" width="95%" alt="Spike overview: unpaired inputs, conditional residual prediction, population supervision and regulatory interpretation">
+  <img src="outputs/drawio_synced_20261114/drawio_figures/Main/Figure1.png" width="95%" alt="Spike overview: unpaired inputs, conditional residual prediction, population supervision and regulatory interpretation">
 </p>
 
-The overview above is a schematic. Quantitative Figures 2–5 are regenerated from numerical data by the notebooks below.
+The [notebooks](notebooks/README.md) display the November 2026 manuscript figures and their individual panels.
 
 ## Installation & Setup
 
@@ -72,9 +72,7 @@ Run these commands from the repository root. The model is a source module, not a
 
 WT, SHH and PSAPP retain their existing names. Documentation, plot labels and notebook table previews use the manuscript display names. Original CSV identifiers, data paths and frozen provenance records are unchanged for reproducibility. The display mapping is defined in [`reproduction/common.py`](reproduction/common.py).
 
-### Reproduction snapshot
-
-Each figure notebook validates the supplied table hashes, draws every panel from CSV values, and writes fresh PNG/PDF/SVG files under `outputs/reproduction/figureN/`. The full figure is assembled from those newly drawn panels in memory. The notebooks never use `notebooks/manuscript/*.png` as plotting inputs.
+### October numerical reproduction snapshot
 
 The numerical figure snapshot follows the manuscript available on **13 October 2026**; dataset display names were aligned with the manuscript on **14 October 2026**, without changing the numerical inputs. Its benchmark and gene-count panels use the released seven-dataset graph predictions and matched split-42 State results (training seeds 41/42/43). This is recorded separately from the original validation-selected graph/expression-only model configuration. Reproduction does not train models or change that frozen configuration. Figure 5A–D retain the historical architecture ablation; Figure 5E uses the manuscript conditional-residual results.
 
@@ -88,17 +86,4 @@ Open the [notebook collection](notebooks/README.md), select the **Spike figures*
 jupyter lab notebooks/
 ```
 
-| Notebook | Manuscript figure | Contents |
-| --- | --- | --- |
-| [Figure 2](notebooks/figure2.ipynb) | Figure 2, A–E | Expression benchmark, spatial maps, distributions and TF support |
-| [Figure 3](notebooks/figure3.ipynb) | Figure 3, A–F | LR enrichment, expression changes, NCAM1 maps and catalogue comparisons |
-| [Figure 4](notebooks/figure4.ipynb) | Figure 4, A–G | Spatial response, enrichment, receptor–TF networks and cascades |
-| [Figure 5](notebooks/figure5.ipynb) | Figure 5, A–E | Historical architecture ablation and gene-count robustness |
-
-Run the entire collection without opening Jupyter:
-
-```bash
-python scripts/execute_figure_notebooks.py
-```
-
-Executed notebooks, including inline figure previews, are saved directly in `notebooks/` and copied to `outputs/executed_notebooks/`. Regenerated figures and validation records are saved under `outputs/reproduction/`. See the [notebook collection and panel guide](notebooks/README.md) for individual figure commands and output details.
+The collection covers Figures 1–5 and Supplementary Figures S1–S16. Running the cells verifies each bundled image against its SHA-256 digest and displays it inline.
