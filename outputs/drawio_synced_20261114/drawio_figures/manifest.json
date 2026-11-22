@@ -1,0 +1,6927 @@
+[
+  {
+    "file": "Main/Figure1.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/drawio_synced_20261114/drawio_figures/Main/Figure1.svg",
+    "source_sha256": "2beda9fe71ed4372b6fe3fbb06e9f3ffb60bc244160d96b422aeff1c95948dab",
+    "size": [
+      1800,
+      1320
+    ],
+    "panels": [
+      {
+        "key": "A",
+        "position": [
+          0,
+          0
+        ],
+        "pixel_size": [
+          520,
+          765
+        ],
+        "asset": "assets/Main/Figure1/A.svg",
+        "png_asset": "assets/Main/Figure1/A.png"
+      },
+      {
+        "key": "B",
+        "position": [
+          520,
+          0
+        ],
+        "pixel_size": [
+          750,
+          765
+        ],
+        "asset": "assets/Main/Figure1/B.svg",
+        "png_asset": "assets/Main/Figure1/B.png"
+      },
+      {
+        "key": "C",
+        "position": [
+          1270,
+          0
+        ],
+        "pixel_size": [
+          530,
+          765
+        ],
+        "asset": "assets/Main/Figure1/C.svg",
+        "png_asset": "assets/Main/Figure1/C.png"
+      },
+      {
+        "key": "D",
+        "position": [
+          0,
+          765
+        ],
+        "pixel_size": [
+          1800,
+          555
+        ],
+        "asset": "assets/Main/Figure1/D.svg",
+        "png_asset": "assets/Main/Figure1/D.png"
+      }
+    ],
+    "format": "Four independent SVG panel components; original cell/LR illustrations remain raster inside SVG",
+    "resampling": false,
+    "drawio_sha256": "a1caeb07d8840b56baa6687602edad85439295adbad9496856ec2e7881cc9a90",
+    "export_size": [
+      3600,
+      2640
+    ],
+    "synchronized_date": "2026-11-21",
+    "data_changed": false,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Main/Figure1.svg",
+    "export_sha256": "d5e01a245ca605986ee0eb3326de32d03bb5407511ec4861f4ce046c06a959e4",
+    "visual_review": "passed 2026-11-18",
+    "all_data_complete": true,
+    "latest_change": "Figure 1B label updated to Spatial graph attention",
+    "latest_data_changed": false
+  },
+  {
+    "file": "Main/Figure2.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/figure2b_tf_axis_20261116/Figure2.drawio",
+    "source_sha256": "e31ab8a318a5c46ff7c2f13028280e3e37a6d62682d1a35d8c7821467cdcd8ca",
+    "size": [
+      3150,
+      2103.1783439490446
+    ],
+    "panels": [
+      {
+        "key": "A",
+        "pixel_size": [
+          1300,
+          726.1783439490446
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Main/Figure2/A.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            1591,
+            911
+          ]
+        ],
+        "trim_box": [
+          16,
+          17,
+          1586,
+          894
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "B",
+        "pixel_size": [
+          1826,
+          726.1783439490446
+        ],
+        "position": [
+          1324,
+          0
+        ],
+        "asset": "assets/Main/Figure2/B.svg",
+        "source_boxes": [
+          [
+            1591,
+            0,
+            3195,
+            911
+          ]
+        ],
+        "trim_box": [
+          9,
+          17,
+          1565,
+          881
+        ],
+        "source_pixels_match_exactly": false,
+        "png_asset": "assets/Main/Figure2/B.png",
+        "data_regions_preserved_with_uniform_scaling": true,
+        "tf_axis_limits": [
+          0.55,
+          1.05
+        ]
+      },
+      {
+        "key": "C",
+        "pixel_size": [
+          3150,
+          620
+        ],
+        "position": [
+          0,
+          750.1783439490446
+        ],
+        "asset": "assets/Main/Figure2/C.png",
+        "source_boxes": [
+          [
+            0,
+            911,
+            3195,
+            1630
+          ]
+        ],
+        "trim_box": [
+          18,
+          10,
+          3168,
+          630
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "D",
+        "pixel_size": [
+          1939,
+          709
+        ],
+        "position": [
+          0,
+          1394.1783439490446
+        ],
+        "asset": "assets/Main/Figure2/D.png",
+        "source_boxes": [
+          [
+            0,
+            1630,
+            1997,
+            2397
+          ]
+        ],
+        "trim_box": [
+          19,
+          23,
+          1958,
+          732
+        ],
+        "source_pixels_match_exactly": true,
+        "rejected_svg_source": "/Users/jasmine/Documents/pycharm/DrugPerturb/tmp/pdfs/panel_uppercase_20261012/stage/Figures/Figure1.svg"
+      },
+      {
+        "key": "E",
+        "pixel_size": [
+          1126,
+          686
+        ],
+        "position": [
+          1963,
+          1394.1783439490446
+        ],
+        "asset": "assets/Main/Figure2/E.png",
+        "source_boxes": [
+          [
+            1997,
+            1630,
+            3195,
+            2397
+          ]
+        ],
+        "trim_box": [
+          24,
+          23,
+          1150,
+          709
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "e31ab8a318a5c46ff7c2f13028280e3e37a6d62682d1a35d8c7821467cdcd8ca",
+    "export_size": [
+      6300,
+      4206
+    ],
+    "synchronized_date": "2026-11-16",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Main/Figure2.svg",
+    "export_sha256": "d4a632ea540a9e37a06b9537b7482998b46650c9f72355219c4c87510ef6d6c9",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true,
+    "latest_change": "Figure2B Population TF cosine axis tightened to 0.55–1.05 with 0.1 ticks; all data and error bars retained"
+  },
+  {
+    "file": "Main/Figure3.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/figure3df_larger_labels_20261119/Figure3.drawio",
+    "source_sha256": "bc44eb8f73f74cbdbf5c9b534d0c914df59ecdf84758b2305b608f63be9c3694",
+    "size": [
+      3000,
+      2434.732840628555
+    ],
+    "panels": [
+      {
+        "key": "A",
+        "pixel_size": [
+          3000,
+          750
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Main/Figure3/A.svg",
+        "source_boxes": [
+          [
+            0,
+            0,
+            3600,
+            786
+          ]
+        ],
+        "trim_box": [
+          56,
+          34,
+          3510,
+          784
+        ],
+        "source_pixels_match_exactly": false,
+        "png_asset": "assets/Main/Figure3/A.png",
+        "method_groups_pixel_identical_after_translation": false,
+        "non_label_pixels_identical": true
+      },
+      {
+        "key": "B",
+        "pixel_size": [
+          3000,
+          665.8008658008658
+        ],
+        "position": [
+          0,
+          774
+        ],
+        "asset": "assets/Main/Figure3/B.svg",
+        "source_boxes": [
+          [
+            0,
+            786,
+            3600,
+            1571
+          ]
+        ],
+        "trim_box": [
+          60,
+          16,
+          3525,
+          785
+        ],
+        "source_pixels_match_exactly": false,
+        "png_asset": "assets/Main/Figure3/B.png",
+        "raw_values_preserved": true,
+        "normalization": "abs_log2fc / maximum among ten displayed pairs, separately per method",
+        "annotation_source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/figure3b_response_p001_20261118/Table_Figure3B_mechanism_evidence.csv",
+        "annotation_policy": "Cell-type associations and source S5 component responses at source-adjusted P < 0.001 and absolute log2FC > 1; mechanism annotations omitted",
+        "display_order": "Descending normalized absolute log2FC within each method"
+      },
+      {
+        "key": "C",
+        "pixel_size": [
+          547.4977524722805,
+          965.537908300869
+        ],
+        "position": [
+          0.0,
+          1463.8008658008657
+        ],
+        "asset": "assets/Main/Figure3/C.png",
+        "source_boxes": [
+          [
+            0,
+            1571,
+            684,
+            2709
+          ]
+        ],
+        "trim_box": [
+          58,
+          0,
+          667,
+          1074
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "D",
+        "pixel_size": [
+          1499.5504944560982,
+          970.9319748276895
+        ],
+        "position": [
+          569.0740185795624,
+          1463.8008658008657
+        ],
+        "asset": "assets/Main/Figure3/D.png",
+        "source_boxes": [
+          [
+            684,
+            1571,
+            2448,
+            2709
+          ]
+        ],
+        "trim_box": [
+          27,
+          0,
+          1695,
+          1080
+        ],
+        "source_pixels_match_exactly": false,
+        "png_asset": "assets/Main/Figure3/D.png",
+        "data_and_symbols_pixels_identical": true
+      },
+      {
+        "key": "E",
+        "pixel_size": [
+          880.0,
+          389.2718010188792
+        ],
+        "position": [
+          2090.200779142943,
+          1463.8008658008657
+        ],
+        "asset": "assets/Main/Figure3/E.svg",
+        "source_boxes": [
+          [
+            2448,
+            1571,
+            3600,
+            2075
+          ]
+        ],
+        "trim_box": [
+          67,
+          0,
+          1079,
+          493
+        ],
+        "source_pixels_match_exactly": false,
+        "png_asset": "assets/Main/Figure3/E.png",
+        "data_and_symbols_pixels_identical": true,
+        "data_groups_pixel_identical_after_translation": true
+      },
+      {
+        "key": "F",
+        "pixel_size": [
+          880,
+          500.32704402515725
+        ],
+        "position": [
+          2090.200779142943,
+          1928.589598195232
+        ],
+        "asset": "assets/Main/Figure3/F.svg",
+        "source_pixels_match_exactly": false,
+        "png_asset": "assets/Main/Figure3/F.png",
+        "editable_asset": "assets/Main/Figure3/F.drawio",
+        "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/figure3_ccc_inferred_links_20261118",
+        "caption": "Supplement/Tables/Figure3F/Figure3F_caption.en.txt"
+      }
+    ],
+    "format": "independent panel assets; vector labels in A and vector plot in B",
+    "resampling": "B-F uniformly scaled; A groups translated without scaling",
+    "drawio_sha256": "bc44eb8f73f74cbdbf5c9b534d0c914df59ecdf84758b2305b608f63be9c3694",
+    "export_size": [
+      6000,
+      4869
+    ],
+    "synchronized_date": "2026-11-19",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Main/Figure3.svg",
+    "export_sha256": "ef0fde688f47123e249f868767b305cdd8e918b61981468aa5fcb868162737b6",
+    "visual_review": "PASS",
+    "historical_Moran_discrepancy_not_resolved": true,
+    "rendering_policy": "Existing rendering accepted by user; gold uses Inpp5d mechanism whitelist.",
+    "image_update_complete": true,
+    "latest_change": "Figure3D legend enlarged to 38px; Figure3F gene labels 19 to 25px and legend 17 to 21px; receptor column shifted for label clearance; data unchanged",
+    "latest_data_changed": false
+  },
+  {
+    "file": "Main/Figure4.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/figure4_ghi_moveup_20261116/Figure4.drawio",
+    "source_sha256": "1230d2e7b86fcc0246491e980b53f35614ac3d264f05ec8cdc0735b0ff590f59",
+    "size": [
+      3665,
+      3036.6666666666665
+    ],
+    "panels": [
+      {
+        "key": "A",
+        "asset": "assets/Main/Figure4_refined_20261116/A.svg",
+        "position": [
+          0.0,
+          60.0
+        ],
+        "pixel_size": [
+          860.0,
+          508.0
+        ],
+        "meaning": "original A"
+      },
+      {
+        "key": "B",
+        "asset": "assets/Main/Figure4_refined_20261116/B.svg",
+        "position": [
+          890.0,
+          60.0
+        ],
+        "pixel_size": [
+          1370.0,
+          507.87857142857143
+        ],
+        "meaning": "original C"
+      },
+      {
+        "key": "C",
+        "asset": "assets/Main/Figure4_refined_20261116/C.svg",
+        "position": [
+          2290.0,
+          60.0
+        ],
+        "pixel_size": [
+          1375.0,
+          507.4404761904762
+        ],
+        "meaning": "original D"
+      },
+      {
+        "key": "D",
+        "asset": "assets/Main/Figure4_refined_20261116/D.svg",
+        "position": [
+          0.0,
+          601.2330946698489
+        ],
+        "pixel_size": [
+          3665.0,
+          647.8431458213846
+        ],
+        "meaning": "original E normalized heatmap"
+      },
+      {
+        "key": "E",
+        "asset": "assets/Main/Figure4_refined_20261116/E.svg",
+        "position": [
+          0,
+          1380
+        ],
+        "pixel_size": [
+          2675,
+          717.65518707483
+        ],
+        "meaning": "Receptor–TF–target support: colored node columns and arrows"
+      },
+      {
+        "key": "F",
+        "asset": "assets/Main/Figure4_refined_20261116/F.svg",
+        "position": [
+          2765,
+          1380
+        ],
+        "pixel_size": [
+          900,
+          900
+        ],
+        "meaning": "uploaded A"
+      },
+      {
+        "key": "G",
+        "asset": "assets/Main/Figure4_refined_20261116/G.svg",
+        "position": [
+          0.0,
+          2250.0
+        ],
+        "pixel_size": [
+          800.0,
+          786.6666666666666
+        ],
+        "meaning": "uploaded B"
+      },
+      {
+        "key": "H",
+        "asset": "assets/Main/Figure4_refined_20261116/H.svg",
+        "position": [
+          870.0,
+          2250.0
+        ],
+        "pixel_size": [
+          736.8,
+          786.6666666666666
+        ],
+        "meaning": "uploaded C"
+      },
+      {
+        "key": "I",
+        "asset": "assets/Main/Figure4_refined_20261116/I.svg",
+        "position": [
+          1676.8,
+          2250.0
+        ],
+        "pixel_size": [
+          1988.2,
+          786.6666666666666
+        ],
+        "meaning": "uploaded D"
+      }
+    ],
+    "format": "Embedded vector SVG panels",
+    "resampling": false,
+    "drawio_sha256": "1230d2e7b86fcc0246491e980b53f35614ac3d264f05ec8cdc0735b0ff590f59",
+    "export_size": [
+      7330,
+      6073
+    ],
+    "synchronized_date": "2026-11-16",
+    "data_changed": true,
+    "trim_expansions": [
+      {
+        "panel": "A",
+        "before": [
+          53,
+          10,
+          1175,
+          728
+        ],
+        "after": [
+          53,
+          10,
+          1228,
+          728
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "B",
+        "before": [
+          17,
+          10,
+          2459,
+          698
+        ],
+        "after": [
+          0,
+          10,
+          2459,
+          698
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      }
+    ],
+    "annotation_legend_rejoined": true,
+    "export_renderer": "libvips SVG rendering at 2x",
+    "full_svg": "Main/Figure4.svg",
+    "export_sha256": "5765c603f5f9c254a2f2d8236734c12bff35920eb996151a3a56cd9801dc583f",
+    "visual_review": "PASS",
+    "historical_Moran_discrepancy_not_resolved": true,
+    "rendering_policy": "Existing rendering accepted by user; gold uses Inpp5d mechanism whitelist.",
+    "image_update_complete": true,
+    "panel_E_replacement": {
+      "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/figure4e_arrow_columns_20261116/E.svg",
+      "readout": "Node max(incoming sum,outgoing sum), min–max within each method and column; original link weights preserved",
+      "scope": "Visualization only, panel E"
+    },
+    "latest_change": "G/H/I row moved upward by 160 canvas units; all panel content and sizes retained",
+    "provenance": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/figure4e_arrow_columns_20261116/verification.json"
+  },
+  {
+    "file": "Supplement/FigureS01.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_numeric_update_20261113/images/FigureS1.png",
+    "source_sha256": "7ff0245f98e2d6a32729629b71727aa57158fea90402e919f2e1fe61789faf6d",
+    "size": [
+      3306,
+      2130
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          1051,
+          1053
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS01/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            1208,
+            1093
+          ]
+        ],
+        "trim_box": [
+          113,
+          21,
+          1164,
+          1074
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          1051,
+          1053
+        ],
+        "position": [
+          1119,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS01/R01_C02.png",
+        "source_boxes": [
+          [
+            1208,
+            0,
+            2417,
+            1093
+          ]
+        ],
+        "trim_box": [
+          115,
+          21,
+          1166,
+          1074
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          1051,
+          1053
+        ],
+        "position": [
+          2237,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS01/R01_C03.png",
+        "source_boxes": [
+          [
+            2417,
+            0,
+            3625,
+            1093
+          ]
+        ],
+        "trim_box": [
+          116,
+          21,
+          1167,
+          1074
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C01",
+        "pixel_size": [
+          1095,
+          1052
+        ],
+        "position": [
+          0,
+          1078
+        ],
+        "asset": "assets/Supplement/FigureS01/R02_C01.png",
+        "source_boxes": [
+          [
+            0,
+            1093,
+            1208,
+            2187
+          ]
+        ],
+        "trim_box": [
+          113,
+          10,
+          1208,
+          1062
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C02",
+        "pixel_size": [
+          1094,
+          1053
+        ],
+        "position": [
+          1119,
+          1077
+        ],
+        "asset": "assets/Supplement/FigureS01/R02_C02.png",
+        "source_boxes": [
+          [
+            1208,
+            1093,
+            2417,
+            2187
+          ]
+        ],
+        "trim_box": [
+          115,
+          9,
+          1209,
+          1062
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C03",
+        "pixel_size": [
+          1069,
+          1053
+        ],
+        "position": [
+          2237,
+          1077
+        ],
+        "asset": "assets/Supplement/FigureS01/R02_C03.png",
+        "source_boxes": [
+          [
+            2417,
+            1093,
+            3625,
+            2187
+          ]
+        ],
+        "trim_box": [
+          116,
+          9,
+          1185,
+          1062
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "9077ee7d143ea7f4fdb7328aa0d78698866bc8dfbcd051a0035e13ed76c9ea9e",
+    "export_size": [
+      6612,
+      4260
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS01.svg",
+    "export_sha256": "9578dc44db7278e88e88269c2a3c5882e57ab23a0e75754a6a090b44a427a5f6",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS02.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_numeric_update_20261113/images/FigureS2.png",
+    "source_sha256": "0307c653a84d088b4f5f2ce7d8f74d536b5899161d9c3c6253532cfeb1eefb35",
+    "size": [
+      3669,
+      3620
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          786,
+          610
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS02/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            854,
+            692
+          ]
+        ],
+        "trim_box": [
+          28,
+          22,
+          814,
+          632
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          521,
+          610
+        ],
+        "position": [
+          811,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS02/R01_C02.png",
+        "source_boxes": [
+          [
+            854,
+            0,
+            1450,
+            692
+          ]
+        ],
+        "trim_box": [
+          32,
+          22,
+          553,
+          632
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          520,
+          610
+        ],
+        "position": [
+          1356,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS02/R01_C03.png",
+        "source_boxes": [
+          [
+            1450,
+            0,
+            2046,
+            692
+          ]
+        ],
+        "trim_box": [
+          29,
+          22,
+          549,
+          632
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C04",
+        "pixel_size": [
+          521,
+          610
+        ],
+        "position": [
+          1900,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS02/R01_C04.png",
+        "source_boxes": [
+          [
+            2046,
+            0,
+            2641,
+            692
+          ]
+        ],
+        "trim_box": [
+          25,
+          22,
+          546,
+          632
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C05",
+        "pixel_size": [
+          520,
+          610
+        ],
+        "position": [
+          2445,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS02/R01_C05.png",
+        "source_boxes": [
+          [
+            2641,
+            0,
+            3237,
+            692
+          ]
+        ],
+        "trim_box": [
+          23,
+          22,
+          543,
+          632
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C06",
+        "pixel_size": [
+          674,
+          610
+        ],
+        "position": [
+          2989,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS02/R01_C06.png",
+        "source_boxes": [
+          [
+            3237,
+            0,
+            3972,
+            692
+          ]
+        ],
+        "trim_box": [
+          19,
+          22,
+          693,
+          632
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C01",
+        "pixel_size": [
+          787,
+          473
+        ],
+        "position": [
+          0,
+          634
+        ],
+        "asset": "assets/Supplement/FigureS02/R02_C01.png",
+        "source_boxes": [
+          [
+            0,
+            692,
+            854,
+            1298
+          ]
+        ],
+        "trim_box": [
+          27,
+          70,
+          814,
+          543
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C02",
+        "pixel_size": [
+          521,
+          473
+        ],
+        "position": [
+          811,
+          634
+        ],
+        "asset": "assets/Supplement/FigureS02/R02_C02.png",
+        "source_boxes": [
+          [
+            854,
+            692,
+            1450,
+            1298
+          ]
+        ],
+        "trim_box": [
+          32,
+          70,
+          553,
+          543
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C03",
+        "pixel_size": [
+          520,
+          473
+        ],
+        "position": [
+          1356,
+          634
+        ],
+        "asset": "assets/Supplement/FigureS02/R02_C03.png",
+        "source_boxes": [
+          [
+            1450,
+            692,
+            2046,
+            1298
+          ]
+        ],
+        "trim_box": [
+          29,
+          70,
+          549,
+          543
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C04",
+        "pixel_size": [
+          521,
+          473
+        ],
+        "position": [
+          1900,
+          634
+        ],
+        "asset": "assets/Supplement/FigureS02/R02_C04.png",
+        "source_boxes": [
+          [
+            2046,
+            692,
+            2641,
+            1298
+          ]
+        ],
+        "trim_box": [
+          25,
+          70,
+          546,
+          543
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C05",
+        "pixel_size": [
+          520,
+          473
+        ],
+        "position": [
+          2445,
+          634
+        ],
+        "asset": "assets/Supplement/FigureS02/R02_C05.png",
+        "source_boxes": [
+          [
+            2641,
+            692,
+            3237,
+            1298
+          ]
+        ],
+        "trim_box": [
+          23,
+          70,
+          543,
+          543
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C06",
+        "pixel_size": [
+          674,
+          473
+        ],
+        "position": [
+          2989,
+          634
+        ],
+        "asset": "assets/Supplement/FigureS02/R02_C06.png",
+        "source_boxes": [
+          [
+            3237,
+            692,
+            3972,
+            1298
+          ]
+        ],
+        "trim_box": [
+          19,
+          70,
+          693,
+          543
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C01",
+        "pixel_size": [
+          787,
+          502
+        ],
+        "position": [
+          0,
+          1131
+        ],
+        "asset": "assets/Supplement/FigureS02/R03_C01.png",
+        "source_boxes": [
+          [
+            0,
+            1298,
+            854,
+            1925
+          ]
+        ],
+        "trim_box": [
+          27,
+          56,
+          814,
+          558
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C02",
+        "pixel_size": [
+          521,
+          502
+        ],
+        "position": [
+          811,
+          1131
+        ],
+        "asset": "assets/Supplement/FigureS02/R03_C02.png",
+        "source_boxes": [
+          [
+            854,
+            1298,
+            1450,
+            1925
+          ]
+        ],
+        "trim_box": [
+          32,
+          56,
+          553,
+          558
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C03",
+        "pixel_size": [
+          520,
+          502
+        ],
+        "position": [
+          1356,
+          1131
+        ],
+        "asset": "assets/Supplement/FigureS02/R03_C03.png",
+        "source_boxes": [
+          [
+            1450,
+            1298,
+            2046,
+            1925
+          ]
+        ],
+        "trim_box": [
+          29,
+          56,
+          549,
+          558
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C04",
+        "pixel_size": [
+          521,
+          502
+        ],
+        "position": [
+          1900,
+          1131
+        ],
+        "asset": "assets/Supplement/FigureS02/R03_C04.png",
+        "source_boxes": [
+          [
+            2046,
+            1298,
+            2641,
+            1925
+          ]
+        ],
+        "trim_box": [
+          25,
+          56,
+          546,
+          558
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C05",
+        "pixel_size": [
+          520,
+          502
+        ],
+        "position": [
+          2445,
+          1131
+        ],
+        "asset": "assets/Supplement/FigureS02/R03_C05.png",
+        "source_boxes": [
+          [
+            2641,
+            1298,
+            3237,
+            1925
+          ]
+        ],
+        "trim_box": [
+          23,
+          56,
+          543,
+          558
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C06",
+        "pixel_size": [
+          648,
+          502
+        ],
+        "position": [
+          2989,
+          1131
+        ],
+        "asset": "assets/Supplement/FigureS02/R03_C06.png",
+        "source_boxes": [
+          [
+            3237,
+            1298,
+            3972,
+            1925
+          ]
+        ],
+        "trim_box": [
+          19,
+          56,
+          667,
+          558
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C01",
+        "pixel_size": [
+          786,
+          370
+        ],
+        "position": [
+          0,
+          1657
+        ],
+        "asset": "assets/Supplement/FigureS02/R04_C01.png",
+        "source_boxes": [
+          [
+            0,
+            1925,
+            854,
+            2465
+          ]
+        ],
+        "trim_box": [
+          28,
+          101,
+          814,
+          471
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C02",
+        "pixel_size": [
+          521,
+          370
+        ],
+        "position": [
+          811,
+          1657
+        ],
+        "asset": "assets/Supplement/FigureS02/R04_C02.png",
+        "source_boxes": [
+          [
+            854,
+            1925,
+            1450,
+            2465
+          ]
+        ],
+        "trim_box": [
+          32,
+          101,
+          553,
+          471
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C03",
+        "pixel_size": [
+          520,
+          370
+        ],
+        "position": [
+          1356,
+          1657
+        ],
+        "asset": "assets/Supplement/FigureS02/R04_C03.png",
+        "source_boxes": [
+          [
+            1450,
+            1925,
+            2046,
+            2465
+          ]
+        ],
+        "trim_box": [
+          29,
+          101,
+          549,
+          471
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C04",
+        "pixel_size": [
+          521,
+          370
+        ],
+        "position": [
+          1900,
+          1657
+        ],
+        "asset": "assets/Supplement/FigureS02/R04_C04.png",
+        "source_boxes": [
+          [
+            2046,
+            1925,
+            2641,
+            2465
+          ]
+        ],
+        "trim_box": [
+          25,
+          101,
+          546,
+          471
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C05",
+        "pixel_size": [
+          520,
+          370
+        ],
+        "position": [
+          2445,
+          1657
+        ],
+        "asset": "assets/Supplement/FigureS02/R04_C05.png",
+        "source_boxes": [
+          [
+            2641,
+            1925,
+            3237,
+            2465
+          ]
+        ],
+        "trim_box": [
+          23,
+          101,
+          543,
+          471
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C06",
+        "pixel_size": [
+          648,
+          377
+        ],
+        "position": [
+          2989,
+          1657
+        ],
+        "asset": "assets/Supplement/FigureS02/R04_C06.png",
+        "source_boxes": [
+          [
+            3237,
+            1925,
+            3972,
+            2465
+          ]
+        ],
+        "trim_box": [
+          19,
+          101,
+          667,
+          478
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C01",
+        "pixel_size": [
+          769,
+          505
+        ],
+        "position": [
+          0.0,
+          2057.0
+        ],
+        "asset": "assets/Supplement/FigureS02/R05_C01.png",
+        "source_boxes": [
+          [
+            0,
+            2465,
+            854,
+            3114
+          ]
+        ],
+        "trim_box": [
+          27,
+          99,
+          796,
+          604
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C02",
+        "pixel_size": [
+          483,
+          505
+        ],
+        "position": [
+          811.0,
+          2057.0
+        ],
+        "asset": "assets/Supplement/FigureS02/R05_C02.png",
+        "source_boxes": [
+          [
+            854,
+            2465,
+            1450,
+            3114
+          ]
+        ],
+        "trim_box": [
+          51,
+          99,
+          534,
+          604
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C03",
+        "pixel_size": [
+          484,
+          505
+        ],
+        "position": [
+          1356.0,
+          2057.0
+        ],
+        "asset": "assets/Supplement/FigureS02/R05_C03.png",
+        "source_boxes": [
+          [
+            1450,
+            2465,
+            2046,
+            3114
+          ]
+        ],
+        "trim_box": [
+          47,
+          99,
+          531,
+          604
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C04",
+        "pixel_size": [
+          483,
+          505
+        ],
+        "position": [
+          1900.0,
+          2057.0
+        ],
+        "asset": "assets/Supplement/FigureS02/R05_C04.png",
+        "source_boxes": [
+          [
+            2046,
+            2465,
+            2641,
+            3114
+          ]
+        ],
+        "trim_box": [
+          44,
+          99,
+          527,
+          604
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C05",
+        "pixel_size": [
+          484,
+          505
+        ],
+        "position": [
+          2445.0,
+          2057.0
+        ],
+        "asset": "assets/Supplement/FigureS02/R05_C05.png",
+        "source_boxes": [
+          [
+            2641,
+            2465,
+            3237,
+            3114
+          ]
+        ],
+        "trim_box": [
+          41,
+          99,
+          525,
+          604
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C06",
+        "pixel_size": [
+          656,
+          505
+        ],
+        "position": [
+          2989.0,
+          2057.0
+        ],
+        "asset": "assets/Supplement/FigureS02/R05_C06.png",
+        "source_boxes": [
+          [
+            3237,
+            2465,
+            3972,
+            3114
+          ]
+        ],
+        "trim_box": [
+          38,
+          99,
+          694,
+          604
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C01",
+        "pixel_size": [
+          777,
+          505
+        ],
+        "position": [
+          0,
+          2586
+        ],
+        "asset": "assets/Supplement/FigureS02/R06_C01.png",
+        "source_boxes": [
+          [
+            0,
+            3114,
+            854,
+            3720
+          ]
+        ],
+        "trim_box": [
+          26,
+          57,
+          803,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C02",
+        "pixel_size": [
+          497,
+          505
+        ],
+        "position": [
+          811,
+          2586
+        ],
+        "asset": "assets/Supplement/FigureS02/R06_C02.png",
+        "source_boxes": [
+          [
+            854,
+            3114,
+            1450,
+            3720
+          ]
+        ],
+        "trim_box": [
+          44,
+          57,
+          541,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C03",
+        "pixel_size": [
+          498,
+          505
+        ],
+        "position": [
+          1356,
+          2586
+        ],
+        "asset": "assets/Supplement/FigureS02/R06_C03.png",
+        "source_boxes": [
+          [
+            1450,
+            3114,
+            2046,
+            3720
+          ]
+        ],
+        "trim_box": [
+          40,
+          57,
+          538,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C04",
+        "pixel_size": [
+          498,
+          505
+        ],
+        "position": [
+          1900,
+          2586
+        ],
+        "asset": "assets/Supplement/FigureS02/R06_C04.png",
+        "source_boxes": [
+          [
+            2046,
+            3114,
+            2641,
+            3720
+          ]
+        ],
+        "trim_box": [
+          37,
+          57,
+          535,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C05",
+        "pixel_size": [
+          498,
+          505
+        ],
+        "position": [
+          2445,
+          2586
+        ],
+        "asset": "assets/Supplement/FigureS02/R06_C05.png",
+        "source_boxes": [
+          [
+            2641,
+            3114,
+            3237,
+            3720
+          ]
+        ],
+        "trim_box": [
+          34,
+          57,
+          532,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C06",
+        "pixel_size": [
+          680,
+          505
+        ],
+        "position": [
+          2989,
+          2586
+        ],
+        "asset": "assets/Supplement/FigureS02/R06_C06.png",
+        "source_boxes": [
+          [
+            3237,
+            3114,
+            3972,
+            3720
+          ]
+        ],
+        "trim_box": [
+          31,
+          57,
+          711,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C01",
+        "pixel_size": [
+          766,
+          505
+        ],
+        "position": [
+          0,
+          3115
+        ],
+        "asset": "assets/Supplement/FigureS02/R07_C01.png",
+        "source_boxes": [
+          [
+            0,
+            3720,
+            854,
+            4325
+          ]
+        ],
+        "trim_box": [
+          26,
+          57,
+          792,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C02",
+        "pixel_size": [
+          477,
+          505
+        ],
+        "position": [
+          811,
+          3115
+        ],
+        "asset": "assets/Supplement/FigureS02/R07_C02.png",
+        "source_boxes": [
+          [
+            854,
+            3720,
+            1450,
+            4325
+          ]
+        ],
+        "trim_box": [
+          54,
+          57,
+          531,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C03",
+        "pixel_size": [
+          476,
+          505
+        ],
+        "position": [
+          1356,
+          3115
+        ],
+        "asset": "assets/Supplement/FigureS02/R07_C03.png",
+        "source_boxes": [
+          [
+            1450,
+            3720,
+            2046,
+            4325
+          ]
+        ],
+        "trim_box": [
+          51,
+          57,
+          527,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C04",
+        "pixel_size": [
+          477,
+          505
+        ],
+        "position": [
+          1899.0,
+          3115.0
+        ],
+        "asset": "assets/Supplement/FigureS02/R07_C04.png",
+        "source_boxes": [
+          [
+            2046,
+            3720,
+            2641,
+            4325
+          ]
+        ],
+        "trim_box": [
+          47,
+          57,
+          524,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C05",
+        "pixel_size": [
+          476,
+          505
+        ],
+        "position": [
+          2445,
+          3115
+        ],
+        "asset": "assets/Supplement/FigureS02/R07_C05.png",
+        "source_boxes": [
+          [
+            2641,
+            3720,
+            3237,
+            4325
+          ]
+        ],
+        "trim_box": [
+          45,
+          57,
+          521,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C06",
+        "pixel_size": [
+          652,
+          505
+        ],
+        "position": [
+          2988.0,
+          3115.0
+        ],
+        "asset": "assets/Supplement/FigureS02/R07_C06.png",
+        "source_boxes": [
+          [
+            3237,
+            3720,
+            3972,
+            4325
+          ]
+        ],
+        "trim_box": [
+          41,
+          57,
+          693,
+          562
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "a147efd0e06c693c26446a1cb6006c5a42bb00d2466a006737fad58a896c002d",
+    "export_size": [
+      7338,
+      7240
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [
+      {
+        "panel": "R05_C01",
+        "before": [
+          27,
+          100,
+          796,
+          604
+        ],
+        "after": [
+          27,
+          99,
+          796,
+          604
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R05_C02",
+        "before": [
+          51,
+          100,
+          534,
+          604
+        ],
+        "after": [
+          51,
+          99,
+          534,
+          604
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R05_C03",
+        "before": [
+          47,
+          100,
+          531,
+          604
+        ],
+        "after": [
+          47,
+          99,
+          531,
+          604
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R05_C04",
+        "before": [
+          44,
+          100,
+          527,
+          604
+        ],
+        "after": [
+          44,
+          99,
+          527,
+          604
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R05_C05",
+        "before": [
+          41,
+          100,
+          525,
+          604
+        ],
+        "after": [
+          41,
+          99,
+          525,
+          604
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R05_C06",
+        "before": [
+          38,
+          100,
+          694,
+          604
+        ],
+        "after": [
+          38,
+          99,
+          694,
+          604
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R07_C04",
+        "before": [
+          48,
+          57,
+          524,
+          562
+        ],
+        "after": [
+          47,
+          57,
+          524,
+          562
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R07_C06",
+        "before": [
+          42,
+          57,
+          693,
+          562
+        ],
+        "after": [
+          41,
+          57,
+          693,
+          562
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      }
+    ],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS02.svg",
+    "export_sha256": "1b80b2a90cb578405970c446f5d19de623baaaf5cbeb674f9045c493b3c95ae5",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS03.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_numeric_update_20261113/images/FigureS19_TFcosine.png",
+    "source_sha256": "96a3061aed3d98e1940070b41185a5795855a3dc3b88c79512363b8ce28cd73b",
+    "size": [
+      2522,
+      2066
+    ],
+    "panels": [
+      {
+        "key": "A_chart",
+        "pixel_size": [
+          2522,
+          1142
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS03/A_chart.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            2640,
+            1368
+          ]
+        ],
+        "trim_box": [
+          70,
+          154,
+          2592,
+          1296
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "B_table",
+        "pixel_size": [
+          2514,
+          900
+        ],
+        "position": [
+          0,
+          1166
+        ],
+        "asset": "assets/Supplement/FigureS03/B_table.png",
+        "source_boxes": [
+          [
+            0,
+            1368,
+            2640,
+            2400
+          ]
+        ],
+        "trim_box": [
+          89,
+          3,
+          2603,
+          903
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "0490af3eac622e0f653e339871c9a0bbdf3a706f6a6a46f99d7c8c8dbffccf32",
+    "export_size": [
+      5044,
+      4132
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS03.svg",
+    "export_sha256": "8df7964596e097343807567ee7cd518da3f71dcaafa3c5c3157615f0279b2161",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS04.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_completion_no_figure5_20261113/images/FigureS3.png",
+    "source_sha256": "d96cd8667c203108d3df57a263bf3991b05fbee3a414b0093144127556d15d60",
+    "size": [
+      4241,
+      2980
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          759,
+          555
+        ],
+        "position": [
+          0,
+          115
+        ],
+        "asset": "assets/Supplement/FigureS04/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            832,
+            752
+          ]
+        ],
+        "trim_box": [
+          27,
+          137,
+          786,
+          692
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          461,
+          670
+        ],
+        "position": [
+          792,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS04/R01_C02.png",
+        "source_boxes": [
+          [
+            832,
+            0,
+            1387,
+            752
+          ]
+        ],
+        "trim_box": [
+          49,
+          22,
+          510,
+          692
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          634,
+          555
+        ],
+        "position": [
+          1318,
+          115
+        ],
+        "asset": "assets/Supplement/FigureS04/R01_C03.png",
+        "source_boxes": [
+          [
+            1387,
+            0,
+            2103,
+            752
+          ]
+        ],
+        "trim_box": [
+          49,
+          137,
+          683,
+          692
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C04",
+        "pixel_size": [
+          484,
+          555
+        ],
+        "position": [
+          1976,
+          115
+        ],
+        "asset": "assets/Supplement/FigureS04/R01_C04.png",
+        "source_boxes": [
+          [
+            2103,
+            0,
+            2704,
+            752
+          ]
+        ],
+        "trim_box": [
+          64,
+          137,
+          548,
+          692
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C05",
+        "pixel_size": [
+          520,
+          670
+        ],
+        "position": [
+          2502,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS04/R01_C05.png",
+        "source_boxes": [
+          [
+            2704,
+            0,
+            3282,
+            752
+          ]
+        ],
+        "trim_box": [
+          12,
+          22,
+          532,
+          692
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C06",
+        "pixel_size": [
+          607,
+          555
+        ],
+        "position": [
+          3046,
+          115
+        ],
+        "asset": "assets/Supplement/FigureS04/R01_C06.png",
+        "source_boxes": [
+          [
+            3282,
+            0,
+            3975,
+            752
+          ]
+        ],
+        "trim_box": [
+          20,
+          137,
+          627,
+          692
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C07",
+        "pixel_size": [
+          486,
+          668
+        ],
+        "position": [
+          3687,
+          3
+        ],
+        "asset": "assets/Supplement/FigureS04/R01_C07.png",
+        "source_boxes": [
+          [
+            3975,
+            0,
+            4622,
+            752
+          ]
+        ],
+        "trim_box": [
+          84,
+          25,
+          570,
+          693
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C01",
+        "pixel_size": [
+          763,
+          446
+        ],
+        "position": [
+          0,
+          696
+        ],
+        "asset": "assets/Supplement/FigureS04/R02_C01.png",
+        "source_boxes": [
+          [
+            0,
+            752,
+            832,
+            1302
+          ]
+        ],
+        "trim_box": [
+          26,
+          55,
+          789,
+          501
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C02",
+        "pixel_size": [
+          360,
+          446
+        ],
+        "position": [
+          792,
+          696
+        ],
+        "asset": "assets/Supplement/FigureS04/R02_C02.png",
+        "source_boxes": [
+          [
+            832,
+            752,
+            1387,
+            1302
+          ]
+        ],
+        "trim_box": [
+          99,
+          55,
+          459,
+          501
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C03",
+        "pixel_size": [
+          610,
+          446
+        ],
+        "position": [
+          1318,
+          696
+        ],
+        "asset": "assets/Supplement/FigureS04/R02_C03.png",
+        "source_boxes": [
+          [
+            1387,
+            752,
+            2103,
+            1302
+          ]
+        ],
+        "trim_box": [
+          46,
+          55,
+          656,
+          501
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C04",
+        "pixel_size": [
+          490,
+          446
+        ],
+        "position": [
+          1976,
+          696
+        ],
+        "asset": "assets/Supplement/FigureS04/R02_C04.png",
+        "source_boxes": [
+          [
+            2103,
+            752,
+            2704,
+            1302
+          ]
+        ],
+        "trim_box": [
+          61,
+          55,
+          551,
+          501
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C05",
+        "pixel_size": [
+          361,
+          446
+        ],
+        "position": [
+          2502,
+          696
+        ],
+        "asset": "assets/Supplement/FigureS04/R02_C05.png",
+        "source_boxes": [
+          [
+            2704,
+            752,
+            3282,
+            1302
+          ]
+        ],
+        "trim_box": [
+          92,
+          55,
+          453,
+          501
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C06",
+        "pixel_size": [
+          611,
+          446
+        ],
+        "position": [
+          3046,
+          696
+        ],
+        "asset": "assets/Supplement/FigureS04/R02_C06.png",
+        "source_boxes": [
+          [
+            3282,
+            752,
+            3975,
+            1302
+          ]
+        ],
+        "trim_box": [
+          16,
+          55,
+          627,
+          501
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C07",
+        "pixel_size": [
+          492,
+          449
+        ],
+        "position": [
+          3687,
+          695
+        ],
+        "asset": "assets/Supplement/FigureS04/R02_C07.png",
+        "source_boxes": [
+          [
+            3975,
+            752,
+            4622,
+            1302
+          ]
+        ],
+        "trim_box": [
+          81,
+          54,
+          573,
+          503
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C01",
+        "pixel_size": [
+          749,
+          446
+        ],
+        "position": [
+          0,
+          1169
+        ],
+        "asset": "assets/Supplement/FigureS04/R03_C01.png",
+        "source_boxes": [
+          [
+            0,
+            1302,
+            832,
+            1890
+          ]
+        ],
+        "trim_box": [
+          26,
+          66,
+          775,
+          512
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C02",
+        "pixel_size": [
+          502,
+          398
+        ],
+        "position": [
+          792,
+          1193
+        ],
+        "asset": "assets/Supplement/FigureS04/R03_C02.png",
+        "source_boxes": [
+          [
+            832,
+            1302,
+            1387,
+            1890
+          ]
+        ],
+        "trim_box": [
+          28,
+          90,
+          530,
+          488
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C03",
+        "pixel_size": [
+          596,
+          446
+        ],
+        "position": [
+          1318,
+          1169
+        ],
+        "asset": "assets/Supplement/FigureS04/R03_C03.png",
+        "source_boxes": [
+          [
+            1387,
+            1302,
+            2103,
+            1890
+          ]
+        ],
+        "trim_box": [
+          60,
+          66,
+          656,
+          512
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C04",
+        "pixel_size": [
+          462,
+          446
+        ],
+        "position": [
+          1976,
+          1169
+        ],
+        "asset": "assets/Supplement/FigureS04/R03_C04.png",
+        "source_boxes": [
+          [
+            2103,
+            1302,
+            2704,
+            1890
+          ]
+        ],
+        "trim_box": [
+          75,
+          66,
+          537,
+          512
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C05",
+        "pixel_size": [
+          503,
+          398
+        ],
+        "position": [
+          2502,
+          1193
+        ],
+        "asset": "assets/Supplement/FigureS04/R03_C05.png",
+        "source_boxes": [
+          [
+            2704,
+            1302,
+            3282,
+            1890
+          ]
+        ],
+        "trim_box": [
+          21,
+          90,
+          524,
+          488
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C06",
+        "pixel_size": [
+          597,
+          446
+        ],
+        "position": [
+          3046,
+          1169
+        ],
+        "asset": "assets/Supplement/FigureS04/R03_C06.png",
+        "source_boxes": [
+          [
+            3282,
+            1302,
+            3975,
+            1890
+          ]
+        ],
+        "trim_box": [
+          30,
+          66,
+          627,
+          512
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C07",
+        "pixel_size": [
+          465,
+          449
+        ],
+        "position": [
+          3687,
+          1168
+        ],
+        "asset": "assets/Supplement/FigureS04/R03_C07.png",
+        "source_boxes": [
+          [
+            3975,
+            1302,
+            4622,
+            1890
+          ]
+        ],
+        "trim_box": [
+          94,
+          65,
+          559,
+          514
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C01",
+        "pixel_size": [
+          768,
+          358
+        ],
+        "position": [
+          0,
+          1659
+        ],
+        "asset": "assets/Supplement/FigureS04/R04_C01.png",
+        "source_boxes": [
+          [
+            0,
+            1890,
+            832,
+            2422
+          ]
+        ],
+        "trim_box": [
+          27,
+          83,
+          795,
+          441
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C02",
+        "pixel_size": [
+          502,
+          368
+        ],
+        "position": [
+          792,
+          1654
+        ],
+        "asset": "assets/Supplement/FigureS04/R04_C02.png",
+        "source_boxes": [
+          [
+            832,
+            1890,
+            1387,
+            2422
+          ]
+        ],
+        "trim_box": [
+          28,
+          78,
+          530,
+          446
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C03",
+        "pixel_size": [
+          616,
+          358
+        ],
+        "position": [
+          1318,
+          1659
+        ],
+        "asset": "assets/Supplement/FigureS04/R04_C03.png",
+        "source_boxes": [
+          [
+            1387,
+            1890,
+            2103,
+            2422
+          ]
+        ],
+        "trim_box": [
+          40,
+          83,
+          656,
+          441
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C04",
+        "pixel_size": [
+          502,
+          358
+        ],
+        "position": [
+          1976,
+          1659
+        ],
+        "asset": "assets/Supplement/FigureS04/R04_C04.png",
+        "source_boxes": [
+          [
+            2103,
+            1890,
+            2704,
+            2422
+          ]
+        ],
+        "trim_box": [
+          55,
+          83,
+          557,
+          441
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C05",
+        "pixel_size": [
+          503,
+          368
+        ],
+        "position": [
+          2502,
+          1654
+        ],
+        "asset": "assets/Supplement/FigureS04/R04_C05.png",
+        "source_boxes": [
+          [
+            2704,
+            1890,
+            3282,
+            2422
+          ]
+        ],
+        "trim_box": [
+          21,
+          78,
+          524,
+          446
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C06",
+        "pixel_size": [
+          617,
+          358
+        ],
+        "position": [
+          3046,
+          1659
+        ],
+        "asset": "assets/Supplement/FigureS04/R04_C06.png",
+        "source_boxes": [
+          [
+            3282,
+            1890,
+            3975,
+            2422
+          ]
+        ],
+        "trim_box": [
+          10,
+          83,
+          627,
+          441
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C07",
+        "pixel_size": [
+          554,
+          395
+        ],
+        "position": [
+          3687,
+          1641
+        ],
+        "asset": "assets/Supplement/FigureS04/R04_C07.png",
+        "source_boxes": [
+          [
+            3975,
+            1890,
+            4622,
+            2422
+          ]
+        ],
+        "trim_box": [
+          50,
+          65,
+          604,
+          460
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C01",
+        "pixel_size": [
+          730,
+          446
+        ],
+        "position": [
+          0,
+          2060
+        ],
+        "asset": "assets/Supplement/FigureS04/R05_C01.png",
+        "source_boxes": [
+          [
+            0,
+            2422,
+            832,
+            2990
+          ]
+        ],
+        "trim_box": [
+          27,
+          68,
+          757,
+          514
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C02",
+        "pixel_size": [
+          427,
+          446
+        ],
+        "position": [
+          778.0,
+          2060.0
+        ],
+        "asset": "assets/Supplement/FigureS04/R05_C02.png",
+        "source_boxes": [
+          [
+            832,
+            2422,
+            1387,
+            2990
+          ]
+        ],
+        "trim_box": [
+          65,
+          68,
+          492,
+          514
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C03",
+        "pixel_size": [
+          579,
+          446
+        ],
+        "position": [
+          1318,
+          2060
+        ],
+        "asset": "assets/Supplement/FigureS04/R05_C03.png",
+        "source_boxes": [
+          [
+            1387,
+            2422,
+            2103,
+            2990
+          ]
+        ],
+        "trim_box": [
+          77,
+          68,
+          656,
+          514
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C04",
+        "pixel_size": [
+          428,
+          446
+        ],
+        "position": [
+          1976,
+          2060
+        ],
+        "asset": "assets/Supplement/FigureS04/R05_C04.png",
+        "source_boxes": [
+          [
+            2103,
+            2422,
+            2704,
+            2990
+          ]
+        ],
+        "trim_box": [
+          92,
+          68,
+          520,
+          514
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C05",
+        "pixel_size": [
+          428,
+          446
+        ],
+        "position": [
+          2488.0,
+          2060.0
+        ],
+        "asset": "assets/Supplement/FigureS04/R05_C05.png",
+        "source_boxes": [
+          [
+            2704,
+            2422,
+            3282,
+            2990
+          ]
+        ],
+        "trim_box": [
+          58,
+          68,
+          486,
+          514
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C06",
+        "pixel_size": [
+          579,
+          446
+        ],
+        "position": [
+          3046,
+          2060
+        ],
+        "asset": "assets/Supplement/FigureS04/R05_C06.png",
+        "source_boxes": [
+          [
+            3282,
+            2422,
+            3975,
+            2990
+          ]
+        ],
+        "trim_box": [
+          48,
+          68,
+          627,
+          514
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C07",
+        "pixel_size": [
+          430,
+          449
+        ],
+        "position": [
+          3687.0,
+          2059.0
+        ],
+        "asset": "assets/Supplement/FigureS04/R05_C07.png",
+        "source_boxes": [
+          [
+            3975,
+            2422,
+            4622,
+            2990
+          ]
+        ],
+        "trim_box": [
+          112,
+          67,
+          542,
+          516
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C01",
+        "pixel_size": [
+          738,
+          446
+        ],
+        "position": [
+          0,
+          2532
+        ],
+        "asset": "assets/Supplement/FigureS04/R06_C01.png",
+        "source_boxes": [
+          [
+            0,
+            2990,
+            832,
+            3669
+          ]
+        ],
+        "trim_box": [
+          26,
+          61,
+          764,
+          507
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C02",
+        "pixel_size": [
+          393,
+          446
+        ],
+        "position": [
+          792,
+          2532
+        ],
+        "asset": "assets/Supplement/FigureS04/R06_C02.png",
+        "source_boxes": [
+          [
+            832,
+            2990,
+            1387,
+            3669
+          ]
+        ],
+        "trim_box": [
+          82,
+          61,
+          475,
+          507
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C03",
+        "pixel_size": [
+          612,
+          446
+        ],
+        "position": [
+          1318,
+          2532
+        ],
+        "asset": "assets/Supplement/FigureS04/R06_C03.png",
+        "source_boxes": [
+          [
+            1387,
+            2990,
+            2103,
+            3669
+          ]
+        ],
+        "trim_box": [
+          71,
+          61,
+          683,
+          507
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C04",
+        "pixel_size": [
+          440,
+          446
+        ],
+        "position": [
+          1976,
+          2532
+        ],
+        "asset": "assets/Supplement/FigureS04/R06_C04.png",
+        "source_boxes": [
+          [
+            2103,
+            2990,
+            2704,
+            3669
+          ]
+        ],
+        "trim_box": [
+          86,
+          61,
+          526,
+          507
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C05",
+        "pixel_size": [
+          393,
+          446
+        ],
+        "position": [
+          2502,
+          2532
+        ],
+        "asset": "assets/Supplement/FigureS04/R06_C05.png",
+        "source_boxes": [
+          [
+            2704,
+            2990,
+            3282,
+            3669
+          ]
+        ],
+        "trim_box": [
+          76,
+          61,
+          469,
+          507
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C06",
+        "pixel_size": [
+          586,
+          446
+        ],
+        "position": [
+          3046,
+          2532
+        ],
+        "asset": "assets/Supplement/FigureS04/R06_C06.png",
+        "source_boxes": [
+          [
+            3282,
+            2990,
+            3975,
+            3669
+          ]
+        ],
+        "trim_box": [
+          41,
+          61,
+          627,
+          507
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C07",
+        "pixel_size": [
+          442,
+          448
+        ],
+        "position": [
+          3687,
+          2532
+        ],
+        "asset": "assets/Supplement/FigureS04/R06_C07.png",
+        "source_boxes": [
+          [
+            3975,
+            2990,
+            4622,
+            3669
+          ]
+        ],
+        "trim_box": [
+          106,
+          61,
+          548,
+          509
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "e5e6b1c813c47d0e290d412882a034dd73ddbb24046addcde202b63c6aa81353",
+    "export_size": [
+      8482,
+      5960
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [
+      {
+        "panel": "R05_C02",
+        "before": [
+          79,
+          68,
+          479,
+          514
+        ],
+        "after": [
+          65,
+          68,
+          492,
+          514
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R05_C05",
+        "before": [
+          72,
+          68,
+          472,
+          514
+        ],
+        "after": [
+          58,
+          68,
+          486,
+          514
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R05_C07",
+        "before": [
+          112,
+          68,
+          542,
+          516
+        ],
+        "after": [
+          112,
+          67,
+          542,
+          516
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      }
+    ],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS04.svg",
+    "export_sha256": "3f7d5e743d930858b1876d94e4e05396b6d4da1a2efb30143aabd88b64887efa",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS05.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_completion_no_figure5_20261113/images/FigureS16.png",
+    "source_sha256": "911970a63a38190cd1fe2a08b19ba6f1f560f22ffdafc6dcc947adb288de121b",
+    "size": [
+      1617,
+      1153
+    ],
+    "panels": [
+      {
+        "key": "A",
+        "pixel_size": [
+          1617,
+          1153
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS05/A.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            1742,
+            1191
+          ]
+        ],
+        "trim_box": [
+          107,
+          18,
+          1724,
+          1171
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "43573fbad74b5bb763dee84f75dd7144291b3a90bd7f24c3e5fd02ad2e06d1d2",
+    "export_size": [
+      3234,
+      2306
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS05.svg",
+    "export_sha256": "5fc2beab4ae4e6664f414dde66f61cf6230eda6df69dccffadc7d6be3a9cf836",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS06.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_completion_no_figure5_20261113/images/FigureS4.png",
+    "source_sha256": "d3c82239f4d7f209f5c218c3996ee698c82130ae6890bc2d3ff648bbbd8f1076",
+    "size": [
+      3378,
+      5141
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          887,
+          804
+        ],
+        "position": [
+          0,
+          1
+        ],
+        "asset": "assets/Supplement/FigureS06/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            1378,
+            974
+          ]
+        ],
+        "trim_box": [
+          25,
+          25,
+          912,
+          829
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          493,
+          803
+        ],
+        "position": [
+          1021,
+          2
+        ],
+        "asset": "assets/Supplement/FigureS06/R01_C02.png",
+        "source_boxes": [
+          [
+            1378,
+            0,
+            2554,
+            974
+          ]
+        ],
+        "trim_box": [
+          450,
+          26,
+          943,
+          829
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          1549,
+          878
+        ],
+        "position": [
+          1823,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS06/R01_C03.png",
+        "source_boxes": [
+          [
+            2554,
+            0,
+            4134,
+            974
+          ]
+        ],
+        "trim_box": [
+          6,
+          24,
+          1555,
+          902
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C01",
+        "pixel_size": [
+          918,
+          580
+        ],
+        "position": [
+          0,
+          926
+        ],
+        "asset": "assets/Supplement/FigureS06/R02_C01.png",
+        "source_boxes": [
+          [
+            0,
+            974,
+            1378,
+            1784
+          ]
+        ],
+        "trim_box": [
+          24,
+          89,
+          942,
+          669
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C02",
+        "pixel_size": [
+          462,
+          580
+        ],
+        "position": [
+          1021,
+          926
+        ],
+        "asset": "assets/Supplement/FigureS06/R02_C02.png",
+        "source_boxes": [
+          [
+            1378,
+            974,
+            2554,
+            1784
+          ]
+        ],
+        "trim_box": [
+          466,
+          89,
+          928,
+          669
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C03",
+        "pixel_size": [
+          1516,
+          676
+        ],
+        "position": [
+          1823,
+          902
+        ],
+        "asset": "assets/Supplement/FigureS06/R02_C03.png",
+        "source_boxes": [
+          [
+            2554,
+            974,
+            4134,
+            1784
+          ]
+        ],
+        "trim_box": [
+          39,
+          65,
+          1555,
+          741
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C01",
+        "pixel_size": [
+          908,
+          579
+        ],
+        "position": [
+          0,
+          1627
+        ],
+        "asset": "assets/Supplement/FigureS06/R03_C01.png",
+        "source_boxes": [
+          [
+            0,
+            1784,
+            1378,
+            2600
+          ]
+        ],
+        "trim_box": [
+          24,
+          93,
+          932,
+          672
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C02",
+        "pixel_size": [
+          740,
+          579
+        ],
+        "position": [
+          1021,
+          1627
+        ],
+        "asset": "assets/Supplement/FigureS06/R03_C02.png",
+        "source_boxes": [
+          [
+            1378,
+            1784,
+            2554,
+            2600
+          ]
+        ],
+        "trim_box": [
+          327,
+          93,
+          1067,
+          672
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C03",
+        "pixel_size": [
+          1549,
+          677
+        ],
+        "position": [
+          1823,
+          1602
+        ],
+        "asset": "assets/Supplement/FigureS06/R03_C03.png",
+        "source_boxes": [
+          [
+            2554,
+            1784,
+            4134,
+            2600
+          ]
+        ],
+        "trim_box": [
+          6,
+          68,
+          1555,
+          745
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C01",
+        "pixel_size": [
+          997,
+          569
+        ],
+        "position": [
+          0,
+          2332
+        ],
+        "asset": "assets/Supplement/FigureS06/R04_C01.png",
+        "source_boxes": [
+          [
+            0,
+            2600,
+            1378,
+            3409
+          ]
+        ],
+        "trim_box": [
+          25,
+          95,
+          1022,
+          664
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C02",
+        "pixel_size": [
+          778,
+          580
+        ],
+        "position": [
+          1021,
+          2327
+        ],
+        "asset": "assets/Supplement/FigureS06/R04_C02.png",
+        "source_boxes": [
+          [
+            1378,
+            2600,
+            2554,
+            3409
+          ]
+        ],
+        "trim_box": [
+          308,
+          90,
+          1086,
+          670
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C03",
+        "pixel_size": [
+          1549,
+          676
+        ],
+        "position": [
+          1823,
+          2303
+        ],
+        "asset": "assets/Supplement/FigureS06/R04_C03.png",
+        "source_boxes": [
+          [
+            2554,
+            2600,
+            4134,
+            3409
+          ]
+        ],
+        "trim_box": [
+          6,
+          66,
+          1555,
+          742
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C01",
+        "pixel_size": [
+          880,
+          580
+        ],
+        "position": [
+          0,
+          3027
+        ],
+        "asset": "assets/Supplement/FigureS06/R05_C01.png",
+        "source_boxes": [
+          [
+            0,
+            3409,
+            1378,
+            4225
+          ]
+        ],
+        "trim_box": [
+          25,
+          94,
+          905,
+          674
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C02",
+        "pixel_size": [
+          553,
+          580
+        ],
+        "position": [
+          1013.0,
+          3027.0
+        ],
+        "asset": "assets/Supplement/FigureS06/R05_C02.png",
+        "source_boxes": [
+          [
+            1378,
+            3409,
+            2554,
+            4225
+          ]
+        ],
+        "trim_box": [
+          421,
+          94,
+          974,
+          674
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C03",
+        "pixel_size": [
+          1555,
+          677
+        ],
+        "position": [
+          1823,
+          3003
+        ],
+        "asset": "assets/Supplement/FigureS06/R05_C03.png",
+        "source_boxes": [
+          [
+            2554,
+            3409,
+            4134,
+            4225
+          ]
+        ],
+        "trim_box": [
+          0,
+          70,
+          1555,
+          747
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C01",
+        "pixel_size": [
+          890,
+          579
+        ],
+        "position": [
+          0,
+          3728
+        ],
+        "asset": "assets/Supplement/FigureS06/R06_C01.png",
+        "source_boxes": [
+          [
+            0,
+            4225,
+            1378,
+            5035
+          ]
+        ],
+        "trim_box": [
+          24,
+          92,
+          914,
+          671
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C02",
+        "pixel_size": [
+          504,
+          579
+        ],
+        "position": [
+          1021,
+          3728
+        ],
+        "asset": "assets/Supplement/FigureS06/R06_C02.png",
+        "source_boxes": [
+          [
+            1378,
+            4225,
+            2554,
+            5035
+          ]
+        ],
+        "trim_box": [
+          445,
+          92,
+          949,
+          671
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C03",
+        "pixel_size": [
+          1538,
+          676
+        ],
+        "position": [
+          1823,
+          3704
+        ],
+        "asset": "assets/Supplement/FigureS06/R06_C03.png",
+        "source_boxes": [
+          [
+            2554,
+            4225,
+            4134,
+            5035
+          ]
+        ],
+        "trim_box": [
+          17,
+          68,
+          1555,
+          744
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C01",
+        "pixel_size": [
+          891,
+          580
+        ],
+        "position": [
+          0,
+          4428
+        ],
+        "asset": "assets/Supplement/FigureS06/R07_C01.png",
+        "source_boxes": [
+          [
+            0,
+            5035,
+            1378,
+            5868
+          ]
+        ],
+        "trim_box": [
+          24,
+          95,
+          915,
+          675
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C02",
+        "pixel_size": [
+          573,
+          580
+        ],
+        "position": [
+          1009.0,
+          4428.0
+        ],
+        "asset": "assets/Supplement/FigureS06/R07_C02.png",
+        "source_boxes": [
+          [
+            1378,
+            5035,
+            2554,
+            5868
+          ]
+        ],
+        "trim_box": [
+          411,
+          95,
+          984,
+          675
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C03",
+        "pixel_size": [
+          1555,
+          737
+        ],
+        "position": [
+          1823,
+          4404
+        ],
+        "asset": "assets/Supplement/FigureS06/R07_C03.png",
+        "source_boxes": [
+          [
+            2554,
+            5035,
+            4134,
+            5868
+          ]
+        ],
+        "trim_box": [
+          0,
+          71,
+          1555,
+          808
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "66d57499dceb060fef1571321f76800568d535b19f696516cb6c0c57734b8640",
+    "export_size": [
+      6756,
+      10282
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [
+      {
+        "panel": "R05_C02",
+        "before": [
+          429,
+          94,
+          965,
+          674
+        ],
+        "after": [
+          421,
+          94,
+          974,
+          674
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R07_C02",
+        "before": [
+          423,
+          95,
+          971,
+          675
+        ],
+        "after": [
+          411,
+          95,
+          984,
+          675
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      }
+    ],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS06.svg",
+    "export_sha256": "590af0855725b976a8dfec2a5eda507f71f913349d94c5de16852e04a3b83a26",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS07.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/figures7_simplify_20261118/FigureS07.drawio",
+    "source_sha256": "588e52e99015a64aec5b446b8b776a62573c5a9eed7896e2060eb0d576495517",
+    "size": [
+      3396,
+      3021
+    ],
+    "panels": [
+      {
+        "key": "A_coexpression",
+        "pixel_size": [
+          1800,
+          3021
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS07/A_coexpression.svg",
+        "source_boxes": [
+          [
+            0,
+            0,
+            2426,
+            3075
+          ]
+        ],
+        "trim_box": [
+          24,
+          23,
+          2340,
+          3044
+        ],
+        "source_pixels_match_exactly": false,
+        "png_asset": "assets/Supplement/FigureS07/A_coexpression.png",
+        "retained_data_pixels_unchanged": true
+      },
+      {
+        "key": "B_enrichment",
+        "pixel_size": [
+          1573,
+          2826
+        ],
+        "position": [
+          1823,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS07/B_enrichment.svg",
+        "source_boxes": [
+          [
+            2426,
+            0,
+            4256,
+            3075
+          ]
+        ],
+        "trim_box": [
+          236,
+          23,
+          1809,
+          2849
+        ],
+        "source_pixels_match_exactly": false,
+        "png_asset": "assets/Supplement/FigureS07/B_enrichment.png",
+        "retained_data_pixels_unchanged": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "588e52e99015a64aec5b446b8b776a62573c5a9eed7896e2060eb0d576495517",
+    "export_size": [
+      6792,
+      6042
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [
+      {
+        "panel": "A_coexpression",
+        "before": [
+          24,
+          23,
+          2339,
+          3044
+        ],
+        "after": [
+          24,
+          23,
+          2340,
+          3044
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      }
+    ],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS07.svg",
+    "export_sha256": "95935d7db0aeec11006365e2c33bd2ddc176d24ab4d8582d86a7e01971d4325c",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true,
+    "latest_change": "FigureS07: removed Genes bar-chart column and descriptive headings; only A./B. panel labels retained; heatmaps and enrichment plots unchanged",
+    "latest_data_changed": false
+  },
+  {
+    "file": "Supplement/FigureS08.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_completion_no_figure5_20261113/images/FigureS6.png",
+    "source_sha256": "716140b130551eeae2a6496939004e9e5b81d28ba9685665b50719d5f9c12feb",
+    "size": [
+      2351,
+      919
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          770,
+          919
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS08/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            856,
+            954
+          ]
+        ],
+        "trim_box": [
+          83,
+          14,
+          853,
+          933
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          758,
+          919
+        ],
+        "position": [
+          794,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS08/R01_C02.png",
+        "source_boxes": [
+          [
+            856,
+            0,
+            1712,
+            954
+          ]
+        ],
+        "trim_box": [
+          80,
+          14,
+          838,
+          933
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          775,
+          919
+        ],
+        "position": [
+          1576,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS08/R01_C03.png",
+        "source_boxes": [
+          [
+            1712,
+            0,
+            2568,
+            954
+          ]
+        ],
+        "trim_box": [
+          65,
+          14,
+          840,
+          933
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "086a03a69a77a864695a0e28fd282fb53f981d67e38b0002089681989505b7e2",
+    "export_size": [
+      4702,
+      1838
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS08.svg",
+    "export_sha256": "ce0fe0442f4d554de801d1cf152e5482fb0fca90b24ca459a09eddc88a4d8cd3",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS09.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_completion_no_figure5_20261113/images/FigureS7.png",
+    "source_sha256": "3fab77652191d333c47812d1c94c00d87bbd17fbecc3ffe01b9e4102bd2585a0",
+    "size": [
+      2358,
+      2762
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          722,
+          454
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS09/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            736,
+            469
+          ]
+        ],
+        "trim_box": [
+          14,
+          15,
+          736,
+          469
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          490,
+          454
+        ],
+        "position": [
+          746,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS09/R01_C02.png",
+        "source_boxes": [
+          [
+            736,
+            0,
+            1226,
+            469
+          ]
+        ],
+        "trim_box": [
+          0,
+          15,
+          490,
+          469
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          489,
+          454
+        ],
+        "position": [
+          1260,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS09/R01_C03.png",
+        "source_boxes": [
+          [
+            1226,
+            0,
+            1715,
+            469
+          ]
+        ],
+        "trim_box": [
+          0,
+          15,
+          489,
+          469
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C04",
+        "pixel_size": [
+          585,
+          454
+        ],
+        "position": [
+          1773,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS09/R01_C04.png",
+        "source_boxes": [
+          [
+            1715,
+            0,
+            2314,
+            469
+          ]
+        ],
+        "trim_box": [
+          0,
+          15,
+          585,
+          469
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C01",
+        "pixel_size": [
+          722,
+          386
+        ],
+        "position": [
+          0,
+          478
+        ],
+        "asset": "assets/Supplement/FigureS09/R02_C01.png",
+        "source_boxes": [
+          [
+            0,
+            469,
+            736,
+            855
+          ]
+        ],
+        "trim_box": [
+          14,
+          0,
+          736,
+          386
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C02",
+        "pixel_size": [
+          490,
+          386
+        ],
+        "position": [
+          746,
+          478
+        ],
+        "asset": "assets/Supplement/FigureS09/R02_C02.png",
+        "source_boxes": [
+          [
+            736,
+            469,
+            1226,
+            855
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          490,
+          386
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C03",
+        "pixel_size": [
+          489,
+          386
+        ],
+        "position": [
+          1260,
+          478
+        ],
+        "asset": "assets/Supplement/FigureS09/R02_C03.png",
+        "source_boxes": [
+          [
+            1226,
+            469,
+            1715,
+            855
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          489,
+          386
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C04",
+        "pixel_size": [
+          585,
+          386
+        ],
+        "position": [
+          1773,
+          478
+        ],
+        "asset": "assets/Supplement/FigureS09/R02_C04.png",
+        "source_boxes": [
+          [
+            1715,
+            469,
+            2314,
+            855
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          585,
+          386
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C01",
+        "pixel_size": [
+          722,
+          386
+        ],
+        "position": [
+          0,
+          888
+        ],
+        "asset": "assets/Supplement/FigureS09/R03_C01.png",
+        "source_boxes": [
+          [
+            0,
+            855,
+            736,
+            1241
+          ]
+        ],
+        "trim_box": [
+          14,
+          0,
+          736,
+          386
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C02",
+        "pixel_size": [
+          490,
+          386
+        ],
+        "position": [
+          746,
+          888
+        ],
+        "asset": "assets/Supplement/FigureS09/R03_C02.png",
+        "source_boxes": [
+          [
+            736,
+            855,
+            1226,
+            1241
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          490,
+          386
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C03",
+        "pixel_size": [
+          489,
+          386
+        ],
+        "position": [
+          1260,
+          888
+        ],
+        "asset": "assets/Supplement/FigureS09/R03_C03.png",
+        "source_boxes": [
+          [
+            1226,
+            855,
+            1715,
+            1241
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          489,
+          386
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R03_C04",
+        "pixel_size": [
+          585,
+          386
+        ],
+        "position": [
+          1773,
+          888
+        ],
+        "asset": "assets/Supplement/FigureS09/R03_C04.png",
+        "source_boxes": [
+          [
+            1715,
+            855,
+            2314,
+            1241
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          585,
+          386
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C01",
+        "pixel_size": [
+          686,
+          307
+        ],
+        "position": [
+          0,
+          1298
+        ],
+        "asset": "assets/Supplement/FigureS09/R04_C01.png",
+        "source_boxes": [
+          [
+            0,
+            1241,
+            736,
+            1626
+          ]
+        ],
+        "trim_box": [
+          20,
+          39,
+          706,
+          346
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C02",
+        "pixel_size": [
+          432,
+          307
+        ],
+        "position": [
+          746,
+          1298
+        ],
+        "asset": "assets/Supplement/FigureS09/R04_C02.png",
+        "source_boxes": [
+          [
+            736,
+            1241,
+            1226,
+            1626
+          ]
+        ],
+        "trim_box": [
+          26,
+          39,
+          458,
+          346
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C03",
+        "pixel_size": [
+          431,
+          307
+        ],
+        "position": [
+          1260,
+          1298
+        ],
+        "asset": "assets/Supplement/FigureS09/R04_C03.png",
+        "source_boxes": [
+          [
+            1226,
+            1241,
+            1715,
+            1626
+          ]
+        ],
+        "trim_box": [
+          25,
+          39,
+          456,
+          346
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R04_C04",
+        "pixel_size": [
+          547,
+          307
+        ],
+        "position": [
+          1773,
+          1298
+        ],
+        "asset": "assets/Supplement/FigureS09/R04_C04.png",
+        "source_boxes": [
+          [
+            1715,
+            1241,
+            2314,
+            1626
+          ]
+        ],
+        "trim_box": [
+          24,
+          39,
+          571,
+          346
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C01",
+        "pixel_size": [
+          722,
+          363
+        ],
+        "position": [
+          0.0,
+          1629.0
+        ],
+        "asset": "assets/Supplement/FigureS09/R05_C01.png",
+        "source_boxes": [
+          [
+            0,
+            1626,
+            736,
+            2012
+          ]
+        ],
+        "trim_box": [
+          14,
+          0,
+          736,
+          363
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C02",
+        "pixel_size": [
+          490,
+          363
+        ],
+        "position": [
+          746.0,
+          1629.0
+        ],
+        "asset": "assets/Supplement/FigureS09/R05_C02.png",
+        "source_boxes": [
+          [
+            736,
+            1626,
+            1226,
+            2012
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          490,
+          363
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C03",
+        "pixel_size": [
+          489,
+          363
+        ],
+        "position": [
+          1260.0,
+          1629.0
+        ],
+        "asset": "assets/Supplement/FigureS09/R05_C03.png",
+        "source_boxes": [
+          [
+            1226,
+            1626,
+            1715,
+            2012
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          489,
+          363
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R05_C04",
+        "pixel_size": [
+          585,
+          363
+        ],
+        "position": [
+          1773.0,
+          1629.0
+        ],
+        "asset": "assets/Supplement/FigureS09/R05_C04.png",
+        "source_boxes": [
+          [
+            1715,
+            1626,
+            2314,
+            2012
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          585,
+          363
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C01",
+        "pixel_size": [
+          722,
+          362
+        ],
+        "position": [
+          0,
+          2014
+        ],
+        "asset": "assets/Supplement/FigureS09/R06_C01.png",
+        "source_boxes": [
+          [
+            0,
+            2012,
+            736,
+            2398
+          ]
+        ],
+        "trim_box": [
+          14,
+          0,
+          736,
+          362
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C02",
+        "pixel_size": [
+          490,
+          362
+        ],
+        "position": [
+          746,
+          2014
+        ],
+        "asset": "assets/Supplement/FigureS09/R06_C02.png",
+        "source_boxes": [
+          [
+            736,
+            2012,
+            1226,
+            2398
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          490,
+          362
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C03",
+        "pixel_size": [
+          489,
+          362
+        ],
+        "position": [
+          1260,
+          2014
+        ],
+        "asset": "assets/Supplement/FigureS09/R06_C03.png",
+        "source_boxes": [
+          [
+            1226,
+            2012,
+            1715,
+            2398
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          489,
+          362
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R06_C04",
+        "pixel_size": [
+          585,
+          362
+        ],
+        "position": [
+          1773,
+          2014
+        ],
+        "asset": "assets/Supplement/FigureS09/R06_C04.png",
+        "source_boxes": [
+          [
+            1715,
+            2012,
+            2314,
+            2398
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          585,
+          362
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C01",
+        "pixel_size": [
+          722,
+          362
+        ],
+        "position": [
+          0,
+          2400
+        ],
+        "asset": "assets/Supplement/FigureS09/R07_C01.png",
+        "source_boxes": [
+          [
+            0,
+            2398,
+            736,
+            2788
+          ]
+        ],
+        "trim_box": [
+          14,
+          0,
+          736,
+          362
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C02",
+        "pixel_size": [
+          490,
+          362
+        ],
+        "position": [
+          746,
+          2400
+        ],
+        "asset": "assets/Supplement/FigureS09/R07_C02.png",
+        "source_boxes": [
+          [
+            736,
+            2398,
+            1226,
+            2788
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          490,
+          362
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C03",
+        "pixel_size": [
+          489,
+          362
+        ],
+        "position": [
+          1260,
+          2400
+        ],
+        "asset": "assets/Supplement/FigureS09/R07_C03.png",
+        "source_boxes": [
+          [
+            1226,
+            2398,
+            1715,
+            2788
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          489,
+          362
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R07_C04",
+        "pixel_size": [
+          585,
+          362
+        ],
+        "position": [
+          1773,
+          2400
+        ],
+        "asset": "assets/Supplement/FigureS09/R07_C04.png",
+        "source_boxes": [
+          [
+            1715,
+            2398,
+            2314,
+            2788
+          ]
+        ],
+        "trim_box": [
+          0,
+          0,
+          585,
+          362
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "96f0ad6d0a1b635305855621201cf8dcc5ba26550eabfefc16a4026c13ff1ea8",
+    "export_size": [
+      4716,
+      5524
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [
+      {
+        "panel": "R05_C01",
+        "before": [
+          14,
+          0,
+          736,
+          361
+        ],
+        "after": [
+          14,
+          0,
+          736,
+          363
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R05_C02",
+        "before": [
+          0,
+          0,
+          490,
+          361
+        ],
+        "after": [
+          0,
+          0,
+          490,
+          363
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R05_C03",
+        "before": [
+          0,
+          0,
+          489,
+          361
+        ],
+        "after": [
+          0,
+          0,
+          489,
+          363
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      },
+      {
+        "panel": "R05_C04",
+        "before": [
+          0,
+          0,
+          585,
+          361
+        ],
+        "after": [
+          0,
+          0,
+          585,
+          363
+        ],
+        "reason": "Preserve new ink beyond old white-margin crop; existing content coordinates unchanged."
+      }
+    ],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS09.svg",
+    "export_sha256": "5dffe41bc1afd8fb724e8abb91c96fccf4d72e518d6d5f6b067fe0bbdc77ed40",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS10.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_numeric_update_20261113/images/FigureS8.png",
+    "source_sha256": "5fc7c7a628f5e0d20adf632187868711d8ad6d83d15ea341c25a288eb423458b",
+    "size": [
+      2386,
+      754
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          796,
+          754
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS10/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            823,
+            784
+          ]
+        ],
+        "trim_box": [
+          16,
+          14,
+          812,
+          768
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          771,
+          754
+        ],
+        "position": [
+          820,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS10/R01_C02.png",
+        "source_boxes": [
+          [
+            823,
+            0,
+            1607,
+            784
+          ]
+        ],
+        "trim_box": [
+          4,
+          14,
+          775,
+          768
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          771,
+          753
+        ],
+        "position": [
+          1615,
+          1
+        ],
+        "asset": "assets/Supplement/FigureS10/R01_C03.png",
+        "source_boxes": [
+          [
+            1607,
+            0,
+            2398,
+            784
+          ]
+        ],
+        "trim_box": [
+          5,
+          15,
+          776,
+          768
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "c287a894288227a0da2c32b3430e429d38a337654b1be5e4cb9e7794b8ac2660",
+    "export_size": [
+      4772,
+      1508
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS10.svg",
+    "export_sha256": "6c5c10ce3d8afcc50b8ec71815cfb8b4ea432b70cf26b44d4f75e0379c07b097",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS11.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_completion_no_figure5_20261113/images/FigureS9.png",
+    "source_sha256": "8685aabc5d45ad0c4c98dfbf433e752020aaf910e8181297b77df58053cb0924",
+    "size": [
+      3580,
+      2083
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          973,
+          1012
+        ],
+        "position": [
+          0,
+          1
+        ],
+        "asset": "assets/Supplement/FigureS11/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            1022,
+            1055
+          ]
+        ],
+        "trim_box": [
+          24,
+          24,
+          997,
+          1036
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          844,
+          838
+        ],
+        "position": [
+          998,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS11/R01_C02.png",
+        "source_boxes": [
+          [
+            1022,
+            0,
+            2044,
+            1055
+          ]
+        ],
+        "trim_box": [
+          153,
+          23,
+          997,
+          861
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          845,
+          838
+        ],
+        "position": [
+          1866,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS11/R01_C03.png",
+        "source_boxes": [
+          [
+            2044,
+            0,
+            3066,
+            1055
+          ]
+        ],
+        "trim_box": [
+          153,
+          23,
+          998,
+          861
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C04",
+        "pixel_size": [
+          845,
+          837
+        ],
+        "position": [
+          2735,
+          1
+        ],
+        "asset": "assets/Supplement/FigureS11/R01_C04.png",
+        "source_boxes": [
+          [
+            3066,
+            0,
+            4088,
+            1055
+          ]
+        ],
+        "trim_box": [
+          153,
+          24,
+          998,
+          861
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C01",
+        "pixel_size": [
+          974,
+          847
+        ],
+        "position": [
+          0,
+          1037
+        ],
+        "asset": "assets/Supplement/FigureS11/R02_C01.svg",
+        "source_boxes": [
+          [
+            0,
+            1055,
+            1022,
+            2136
+          ]
+        ],
+        "trim_box": [
+          23,
+          0,
+          997,
+          847
+        ],
+        "source_pixels_match_exactly": true,
+        "quality": "hybrid: original-resolution bitmap plus current vector data region"
+      },
+      {
+        "key": "R02_C02",
+        "pixel_size": [
+          844,
+          971
+        ],
+        "position": [
+          998,
+          1045
+        ],
+        "asset": "assets/Supplement/FigureS11/R02_C02.png",
+        "source_boxes": [
+          [
+            1022,
+            1055,
+            2044,
+            2136
+          ]
+        ],
+        "trim_box": [
+          153,
+          8,
+          997,
+          979
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C03",
+        "pixel_size": [
+          845,
+          839
+        ],
+        "position": [
+          1866,
+          1045
+        ],
+        "asset": "assets/Supplement/FigureS11/R02_C03.svg",
+        "source_boxes": [
+          [
+            2044,
+            1055,
+            3066,
+            2136
+          ]
+        ],
+        "trim_box": [
+          153,
+          8,
+          998,
+          847
+        ],
+        "source_pixels_match_exactly": true,
+        "quality": "hybrid: original-resolution bitmap plus current vector data region"
+      },
+      {
+        "key": "R02_C04",
+        "pixel_size": [
+          836,
+          1040
+        ],
+        "position": [
+          2735,
+          1043
+        ],
+        "asset": "assets/Supplement/FigureS11/R02_C04.svg",
+        "source_boxes": [
+          [
+            3066,
+            1055,
+            4088,
+            2136
+          ]
+        ],
+        "trim_box": [
+          141,
+          6,
+          977,
+          1046
+        ],
+        "source_pixels_match_exactly": true,
+        "quality": "hybrid: original-resolution bitmap plus current vector data region"
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "61830d473d1d683ea4f41474dea701891f422858ec2346cf9ed5b2323ad1cc37",
+    "export_size": [
+      7160,
+      4166
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS11.svg",
+    "export_sha256": "3ba661fb2547612792aeacf664608cc1b6d059f66026cea5c9471f6545e5acf9",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS12.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_completion_no_figure5_20261113/images/FigureS10.png",
+    "source_sha256": "43469b381f8f1ce71b9a501cdb21cf84d0259aec6e68ba9c22e49efe68cc311c",
+    "size": [
+      2847,
+      1724
+    ],
+    "panels": [
+      {
+        "key": "A",
+        "pixel_size": [
+          2847,
+          1724
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS12/A.svg",
+        "source_boxes": [
+          [
+            0,
+            0,
+            2901,
+            1849
+          ]
+        ],
+        "trim_box": [
+          28,
+          27,
+          2875,
+          1751
+        ],
+        "source_pixels_match_exactly": true,
+        "quality": "hybrid: original-resolution bitmap plus current vector data region"
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "909f61f33836e0aaa1076a26956cdda4547c6e1e0bf3f4225b4af100a0b8fbfc",
+    "export_size": [
+      5694,
+      3448
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS12.svg",
+    "export_sha256": "3dcaa13b4833f941a2e378689b74ad8af951f3eef2bf9b69fbd3efb2acbc2e0e",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS13.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/figures13_remove_title_20261118/FigureS13.drawio",
+    "source_sha256": "8f8d3db80fc3d04f0898abba93740c021ee8bf99c063ce9b3bdf6eea530e6f93",
+    "size": [
+      3250,
+      1332
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          1151,
+          1332
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS13/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            1352,
+            1619
+          ]
+        ],
+        "trim_box": [
+          161,
+          27,
+          1312,
+          1520
+        ],
+        "source_pixels_match_exactly": false,
+        "retained_data_pixels_unchanged": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          1086,
+          1332
+        ],
+        "position": [
+          1175,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS13/R01_C02.png",
+        "source_boxes": [
+          [
+            1352,
+            0,
+            2487,
+            1619
+          ]
+        ],
+        "trim_box": [
+          39,
+          188,
+          1125,
+          1520
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          965,
+          1332
+        ],
+        "position": [
+          2285,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS13/R01_C03.png",
+        "source_boxes": [
+          [
+            2487,
+            0,
+            3605,
+            1619
+          ]
+        ],
+        "trim_box": [
+          123,
+          188,
+          1088,
+          1520
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "8f8d3db80fc3d04f0898abba93740c021ee8bf99c063ce9b3bdf6eea530e6f93",
+    "export_size": [
+      6500,
+      2664
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS13.svg",
+    "export_sha256": "8237fdd4a905eb512c72d638db3609dcee5df0e44f396d6198dcca0daf096867",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true,
+    "latest_change": "FigureS13: removed Validation diagnostics heading and its top whitespace; all retained plot pixels unchanged",
+    "latest_data_changed": false
+  },
+  {
+    "file": "Supplement/FigureS14.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_numeric_update_20261113/images/FigureS12.png",
+    "source_sha256": "014edd71db540c1f3cfb1cad6c4bed455e2a734eccff1339f596185092f5d98d",
+    "size": [
+      2756,
+      1185
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          664,
+          581
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS14/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            685,
+            604
+          ]
+        ],
+        "trim_box": [
+          15,
+          14,
+          679,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          678,
+          581
+        ],
+        "position": [
+          688,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS14/R01_C02.png",
+        "source_boxes": [
+          [
+            685,
+            0,
+            1369,
+            604
+          ]
+        ],
+        "trim_box": [
+          3,
+          14,
+          681,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          677,
+          581
+        ],
+        "position": [
+          1390,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS14/R01_C03.png",
+        "source_boxes": [
+          [
+            1369,
+            0,
+            2054,
+            604
+          ]
+        ],
+        "trim_box": [
+          6,
+          14,
+          683,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C04",
+        "pixel_size": [
+          665,
+          581
+        ],
+        "position": [
+          2091,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS14/R01_C04.png",
+        "source_boxes": [
+          [
+            2054,
+            0,
+            2739,
+            604
+          ]
+        ],
+        "trim_box": [
+          7,
+          14,
+          672,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C01",
+        "pixel_size": [
+          664,
+          580
+        ],
+        "position": [
+          0,
+          605
+        ],
+        "asset": "assets/Supplement/FigureS14/R02_C01.png",
+        "source_boxes": [
+          [
+            0,
+            604,
+            685,
+            1209
+          ]
+        ],
+        "trim_box": [
+          15,
+          5,
+          679,
+          585
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C02",
+        "pixel_size": [
+          678,
+          580
+        ],
+        "position": [
+          688,
+          605
+        ],
+        "asset": "assets/Supplement/FigureS14/R02_C02.png",
+        "source_boxes": [
+          [
+            685,
+            604,
+            1369,
+            1209
+          ]
+        ],
+        "trim_box": [
+          3,
+          5,
+          681,
+          585
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C03",
+        "pixel_size": [
+          664,
+          580
+        ],
+        "position": [
+          1390,
+          605
+        ],
+        "asset": "assets/Supplement/FigureS14/R02_C03.png",
+        "source_boxes": [
+          [
+            1369,
+            604,
+            2054,
+            1209
+          ]
+        ],
+        "trim_box": [
+          19,
+          5,
+          683,
+          585
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "Shared_legend",
+        "pixel_size": [
+          135,
+          148
+        ],
+        "position": [
+          2091,
+          819
+        ],
+        "asset": "assets/Supplement/FigureS14/Shared_legend.png",
+        "source_boxes": [
+          [
+            2054,
+            604,
+            2739,
+            1209
+          ]
+        ],
+        "trim_box": [
+          311,
+          219,
+          446,
+          367
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "77c99517eb6cf6c92f1ae1e6ebc987f7c80911a547066be4c4474267a1bb2c83",
+    "export_size": [
+      5512,
+      2370
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS14.svg",
+    "export_sha256": "e7df29acc9e4a3001b0702a6f6c70c04654c3a8a1dc38ee53da8c7d1e05cfbef",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS15.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_numeric_update_20261113/images/FigureS13.png",
+    "source_sha256": "2de1c6663b89199e5610e2329d1ef1d9d338c0542b7eb651196369507fd42651",
+    "size": [
+      2755,
+      1185
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          670,
+          581
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS15/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            685,
+            604
+          ]
+        ],
+        "trim_box": [
+          15,
+          14,
+          685,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          671,
+          581
+        ],
+        "position": [
+          694,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS15/R01_C02.png",
+        "source_boxes": [
+          [
+            685,
+            0,
+            1369,
+            604
+          ]
+        ],
+        "trim_box": [
+          10,
+          14,
+          681,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          671,
+          581
+        ],
+        "position": [
+          1389,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS15/R01_C03.png",
+        "source_boxes": [
+          [
+            1369,
+            0,
+            2054,
+            604
+          ]
+        ],
+        "trim_box": [
+          6,
+          14,
+          677,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C04",
+        "pixel_size": [
+          671,
+          581
+        ],
+        "position": [
+          2084,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS15/R01_C04.png",
+        "source_boxes": [
+          [
+            2054,
+            0,
+            2739,
+            604
+          ]
+        ],
+        "trim_box": [
+          1,
+          14,
+          672,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C01",
+        "pixel_size": [
+          670,
+          580
+        ],
+        "position": [
+          0,
+          605
+        ],
+        "asset": "assets/Supplement/FigureS15/R02_C01.png",
+        "source_boxes": [
+          [
+            0,
+            604,
+            685,
+            1209
+          ]
+        ],
+        "trim_box": [
+          15,
+          5,
+          685,
+          585
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C02",
+        "pixel_size": [
+          671,
+          580
+        ],
+        "position": [
+          694,
+          605
+        ],
+        "asset": "assets/Supplement/FigureS15/R02_C02.png",
+        "source_boxes": [
+          [
+            685,
+            604,
+            1369,
+            1209
+          ]
+        ],
+        "trim_box": [
+          10,
+          5,
+          681,
+          585
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C03",
+        "pixel_size": [
+          671,
+          580
+        ],
+        "position": [
+          1389,
+          605
+        ],
+        "asset": "assets/Supplement/FigureS15/R02_C03.png",
+        "source_boxes": [
+          [
+            1369,
+            604,
+            2054,
+            1209
+          ]
+        ],
+        "trim_box": [
+          6,
+          5,
+          677,
+          585
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "Shared_legend",
+        "pixel_size": [
+          136,
+          148
+        ],
+        "position": [
+          2084,
+          819
+        ],
+        "asset": "assets/Supplement/FigureS15/Shared_legend.png",
+        "source_boxes": [
+          [
+            2054,
+            604,
+            2739,
+            1209
+          ]
+        ],
+        "trim_box": [
+          307,
+          219,
+          443,
+          367
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "dd07b3896f9e2b231bbb6113b5b83ff08379e2bce9460d8d5506159d763fb988",
+    "export_size": [
+      5510,
+      2370
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS15.svg",
+    "export_sha256": "be1a21b8a263a9cd5d733022bd4c451bb4ff3921f8fcf69e81e2b2a9fdd60d68",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS16.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_numeric_update_20261113/images/FigureS14.png",
+    "source_sha256": "0893dcb1c33975a0d3e0477e724e733d4a5cfd6fc0aa178034403a08a4b0cfae",
+    "size": [
+      2749,
+      1185
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          669,
+          581
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS16/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            685,
+            604
+          ]
+        ],
+        "trim_box": [
+          16,
+          14,
+          685,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          682,
+          581
+        ],
+        "position": [
+          693,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS16/R01_C02.png",
+        "source_boxes": [
+          [
+            685,
+            0,
+            1379,
+            604
+          ]
+        ],
+        "trim_box": [
+          12,
+          14,
+          694,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          654,
+          581
+        ],
+        "position": [
+          1399,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS16/R01_C03.png",
+        "source_boxes": [
+          [
+            1379,
+            0,
+            2054,
+            604
+          ]
+        ],
+        "trim_box": [
+          12,
+          14,
+          666,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C04",
+        "pixel_size": [
+          672,
+          581
+        ],
+        "position": [
+          2077,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS16/R01_C04.png",
+        "source_boxes": [
+          [
+            2054,
+            0,
+            2739,
+            604
+          ]
+        ],
+        "trim_box": [
+          0,
+          14,
+          672,
+          595
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C01",
+        "pixel_size": [
+          669,
+          580
+        ],
+        "position": [
+          0,
+          605
+        ],
+        "asset": "assets/Supplement/FigureS16/R02_C01.png",
+        "source_boxes": [
+          [
+            0,
+            604,
+            685,
+            1209
+          ]
+        ],
+        "trim_box": [
+          16,
+          5,
+          685,
+          585
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C02",
+        "pixel_size": [
+          669,
+          580
+        ],
+        "position": [
+          693,
+          605
+        ],
+        "asset": "assets/Supplement/FigureS16/R02_C02.png",
+        "source_boxes": [
+          [
+            685,
+            604,
+            1379,
+            1209
+          ]
+        ],
+        "trim_box": [
+          25,
+          5,
+          694,
+          585
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R02_C03",
+        "pixel_size": [
+          654,
+          580
+        ],
+        "position": [
+          1399,
+          605
+        ],
+        "asset": "assets/Supplement/FigureS16/R02_C03.png",
+        "source_boxes": [
+          [
+            1379,
+            604,
+            2054,
+            1209
+          ]
+        ],
+        "trim_box": [
+          12,
+          5,
+          666,
+          585
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "Shared_legend",
+        "pixel_size": [
+          136,
+          148
+        ],
+        "position": [
+          2077,
+          819
+        ],
+        "asset": "assets/Supplement/FigureS16/Shared_legend.png",
+        "source_boxes": [
+          [
+            2054,
+            604,
+            2739,
+            1209
+          ]
+        ],
+        "trim_box": [
+          316,
+          219,
+          452,
+          367
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "b548dc405182fe6d307ab1cd69391b73036741632a44345379e93732be8213dc",
+    "export_size": [
+      5498,
+      2370
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS16.svg",
+    "export_sha256": "1a6709a0af68c291b4843a140f5b4668a139ede270ff5d1bd27703cdd7aa7e87",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS17.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/manuscript_numeric_update_20261113/images/FigureS15.png",
+    "source_sha256": "c68d2b8990b1bc84de6028144562a48c2876633ae3246751bf1987fe7fc780fb",
+    "size": [
+      2767,
+      869
+    ],
+    "panels": [
+      {
+        "key": "R01_C01",
+        "pixel_size": [
+          480,
+          869
+        ],
+        "position": [
+          0,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS17/R01_C01.png",
+        "source_boxes": [
+          [
+            0,
+            0,
+            599,
+            903
+          ]
+        ],
+        "trim_box": [
+          82,
+          14,
+          562,
+          883
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C02",
+        "pixel_size": [
+          481,
+          868
+        ],
+        "position": [
+          504,
+          1
+        ],
+        "asset": "assets/Supplement/FigureS17/R01_C02.png",
+        "source_boxes": [
+          [
+            599,
+            0,
+            1152,
+            903
+          ]
+        ],
+        "trim_box": [
+          39,
+          15,
+          520,
+          883
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C03",
+        "pixel_size": [
+          481,
+          868
+        ],
+        "position": [
+          1009,
+          1
+        ],
+        "asset": "assets/Supplement/FigureS17/R01_C03.png",
+        "source_boxes": [
+          [
+            1152,
+            0,
+            1705,
+            903
+          ]
+        ],
+        "trim_box": [
+          43,
+          15,
+          524,
+          883
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C04",
+        "pixel_size": [
+          480,
+          869
+        ],
+        "position": [
+          1514,
+          0
+        ],
+        "asset": "assets/Supplement/FigureS17/R01_C04.png",
+        "source_boxes": [
+          [
+            1705,
+            0,
+            2289,
+            903
+          ]
+        ],
+        "trim_box": [
+          47,
+          14,
+          527,
+          883
+        ],
+        "source_pixels_match_exactly": true
+      },
+      {
+        "key": "R01_C05",
+        "pixel_size": [
+          749,
+          868
+        ],
+        "position": [
+          2018,
+          1
+        ],
+        "asset": "assets/Supplement/FigureS17/R01_C05.png",
+        "source_boxes": [
+          [
+            2289,
+            0,
+            3072,
+            903
+          ]
+        ],
+        "trim_box": [
+          19,
+          15,
+          768,
+          883
+        ],
+        "source_pixels_match_exactly": true
+      }
+    ],
+    "format": "lossless original-resolution independent panel PNGs",
+    "resampling": false,
+    "drawio_sha256": "0a82a2f427ff7c9d3f8332ff432fe21cb816396df9f21cc75be98e9b5e30bbef",
+    "export_size": [
+      5534,
+      1738
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": true,
+    "trim_expansions": [],
+    "export_renderer": "libvips software rendering, 2x pixels, 300 DPI metadata",
+    "full_svg": "Supplement/FigureS17.svg",
+    "export_sha256": "e5be45df6824fdb0d135465d40bc200a23dfa641e1f7a7b7c01d9b2b7b587255",
+    "visual_review": "passed 2026-11-14",
+    "all_data_complete": true
+  },
+  {
+    "file": "Supplement/FigureS18.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/s18_figure4d_style_20261116/FigureS18.svg",
+    "source_sha256": "674f734317e8989f2daa752ed6b2031be3f83070a134c5f75e751fafc3fe0df8",
+    "size": [
+      2400,
+      1802
+    ],
+    "panels": [
+      {
+        "key": "shared_0",
+        "position": [
+          0,
+          0
+        ],
+        "pixel_size": [
+          2400.0,
+          55.0
+        ],
+        "asset": "assets/Supplement/FigureS18/shared_0.png",
+        "vector_asset": "assets/Supplement/FigureS18/shared_0.svg"
+      },
+      {
+        "key": "A_SHH",
+        "position": [
+          0,
+          60
+        ],
+        "pixel_size": [
+          730.0,
+          552.0
+        ],
+        "asset": "assets/Supplement/FigureS18/A_SHH.png",
+        "vector_asset": "assets/Supplement/FigureS18/A_SHH.svg"
+      },
+      {
+        "key": "B_RHY4",
+        "position": [
+          760,
+          60
+        ],
+        "pixel_size": [
+          730.0,
+          552.0
+        ],
+        "asset": "assets/Supplement/FigureS18/B_RHY4.png",
+        "vector_asset": "assets/Supplement/FigureS18/B_RHY4.svg"
+      },
+      {
+        "key": "C_WT",
+        "position": [
+          1520,
+          60
+        ],
+        "pixel_size": [
+          730.0,
+          552.0
+        ],
+        "asset": "assets/Supplement/FigureS18/C_WT.png",
+        "vector_asset": "assets/Supplement/FigureS18/C_WT.svg"
+      },
+      {
+        "key": "D_RHY1",
+        "position": [
+          0,
+          660
+        ],
+        "pixel_size": [
+          730.0,
+          552.0
+        ],
+        "asset": "assets/Supplement/FigureS18/D_RHY1.png",
+        "vector_asset": "assets/Supplement/FigureS18/D_RHY1.svg"
+      },
+      {
+        "key": "E_RHY2",
+        "position": [
+          760,
+          660
+        ],
+        "pixel_size": [
+          730.0,
+          552.0
+        ],
+        "asset": "assets/Supplement/FigureS18/E_RHY2.png",
+        "vector_asset": "assets/Supplement/FigureS18/E_RHY2.svg"
+      },
+      {
+        "key": "F_RHY3",
+        "position": [
+          1520,
+          660
+        ],
+        "pixel_size": [
+          730.0,
+          552.0
+        ],
+        "asset": "assets/Supplement/FigureS18/F_RHY3.png",
+        "vector_asset": "assets/Supplement/FigureS18/F_RHY3.svg"
+      },
+      {
+        "key": "G_PSAPP",
+        "position": [
+          0,
+          1260
+        ],
+        "pixel_size": [
+          730.0,
+          552.0
+        ],
+        "asset": "assets/Supplement/FigureS18/G_PSAPP.png",
+        "vector_asset": "assets/Supplement/FigureS18/G_PSAPP.svg"
+      },
+      {
+        "key": "Shared_legend",
+        "position": [
+          2235,
+          170
+        ],
+        "pixel_size": [
+          165.0,
+          600.0
+        ],
+        "asset": "assets/Supplement/FigureS18/Shared_legend.png",
+        "vector_asset": "assets/Supplement/FigureS18/Shared_legend.svg"
+      }
+    ],
+    "format": "Independent editable vector SVG panels embedded in drawio",
+    "drawio_sha256": "17d003e9ddb491efc1a9e9e967184251e4b647129fb3d55887c9bf4b475dc8e9",
+    "export_size": [
+      4800,
+      3604
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": false,
+    "export_renderer": "libvips SVG rendering at 2x; native drawio rendering checked",
+    "full_svg": "Supplement/FigureS18.svg",
+    "export_sha256": "1e1c35b0c56d200461c2b5bbbee29e14271c85c9e8d56589492f325259d6894a",
+    "visual_review": "passed 2026-11-16",
+    "all_data_complete": true,
+    "visualization_changed": true,
+    "latest_change": "Receptor-by-TF heatmaps styled after Figure 4D: exact palette, upper labels, red/blue dots, black frame, no cell text, vertical shared colorbar; 140 pairs unchanged",
+    "provenance": "outputs/s18_figure4d_style_20261116/verification.json"
+  },
+  {
+    "file": "Supplement/FigureS19.drawio",
+    "source": "/Users/jasmine/Documents/pycharm/DrugPerturb/outputs/s19_highlight_rule_20261116/FigureS19.svg",
+    "source_sha256": "37430a0cd7a8ba761bc53b9f9f95788df828abb2c13622d509f4726820c7d748",
+    "size": [
+      3000,
+      1850
+    ],
+    "panels": [
+      {
+        "key": "shared_0",
+        "position": [
+          0,
+          0
+        ],
+        "pixel_size": [
+          3000.0,
+          55.0
+        ],
+        "asset": "assets/Supplement/FigureS19/shared_0.png",
+        "vector_asset": "assets/Supplement/FigureS19/shared_0.svg"
+      },
+      {
+        "key": "A_SHH",
+        "position": [
+          0,
+          70
+        ],
+        "pixel_size": [
+          980.0,
+          580.0
+        ],
+        "asset": "assets/Supplement/FigureS19/A_SHH.png",
+        "vector_asset": "assets/Supplement/FigureS19/A_SHH.svg"
+      },
+      {
+        "key": "B_RHY4",
+        "position": [
+          1010,
+          70
+        ],
+        "pixel_size": [
+          980.0,
+          580.0
+        ],
+        "asset": "assets/Supplement/FigureS19/B_RHY4.png",
+        "vector_asset": "assets/Supplement/FigureS19/B_RHY4.svg"
+      },
+      {
+        "key": "C_WT",
+        "position": [
+          2020,
+          70
+        ],
+        "pixel_size": [
+          980.0,
+          580.0
+        ],
+        "asset": "assets/Supplement/FigureS19/C_WT.png",
+        "vector_asset": "assets/Supplement/FigureS19/C_WT.svg"
+      },
+      {
+        "key": "D_RHY1",
+        "position": [
+          0,
+          680
+        ],
+        "pixel_size": [
+          980.0,
+          580.0
+        ],
+        "asset": "assets/Supplement/FigureS19/D_RHY1.png",
+        "vector_asset": "assets/Supplement/FigureS19/D_RHY1.svg"
+      },
+      {
+        "key": "E_RHY2",
+        "position": [
+          1010,
+          680
+        ],
+        "pixel_size": [
+          980.0,
+          580.0
+        ],
+        "asset": "assets/Supplement/FigureS19/E_RHY2.png",
+        "vector_asset": "assets/Supplement/FigureS19/E_RHY2.svg"
+      },
+      {
+        "key": "F_RHY3",
+        "position": [
+          2020,
+          680
+        ],
+        "pixel_size": [
+          980.0,
+          580.0
+        ],
+        "asset": "assets/Supplement/FigureS19/F_RHY3.png",
+        "vector_asset": "assets/Supplement/FigureS19/F_RHY3.svg"
+      },
+      {
+        "key": "G_PSAPP",
+        "position": [
+          0,
+          1290
+        ],
+        "pixel_size": [
+          980.0,
+          580.0
+        ],
+        "asset": "assets/Supplement/FigureS19/G_PSAPP.png",
+        "vector_asset": "assets/Supplement/FigureS19/G_PSAPP.svg"
+      },
+      {
+        "key": "Shared_legend",
+        "position": [
+          1100,
+          1380
+        ],
+        "pixel_size": [
+          1400.0,
+          360.0
+        ],
+        "asset": "assets/Supplement/FigureS19/Shared_legend.png",
+        "vector_asset": "assets/Supplement/FigureS19/Shared_legend.svg"
+      }
+    ],
+    "format": "Independent editable vector SVG panels embedded in drawio",
+    "drawio_sha256": "72bb68b044dd26e7781e9633198caa72e76535be1f8f474e438c6cdfed6df688",
+    "export_size": [
+      6000,
+      3700
+    ],
+    "synchronized_date": "2026-11-14",
+    "data_changed": false,
+    "export_renderer": "libvips SVG rendering at 2x; native drawio rendering checked",
+    "full_svg": "Supplement/FigureS19.svg",
+    "export_sha256": "50f0b20e740b62e92c9923eb808b07c8dcfd1d328767d07f5f7eac7619043e54",
+    "visual_review": "passed 2026-11-16",
+    "all_data_complete": true,
+    "visualization_changed": true,
+    "latest_change": "S19 highlights strongest outgoing links only among multiple displayed alternatives; sole links remain gray; gray lines darkened and thickened; 89 links and raw weights unchanged",
+    "provenance": "outputs/s19_highlight_rule_20261116/verification.json"
+  },
+  {
+    "file": "Main/Figure5.drawio",
+    "source": "outputs/drawio_synced_20261114/drawio_figures/Main/Figure5.drawio",
+    "format": "Native drawio labels and independently embedded SVG panel graphics",
+    "size": [
+      1580,
+      1398.0
+    ],
+    "resampling": false,
+    "drawio_sha256": "ba2ebea491eeacf5608f40460d8441ca7733879465fe5c3352390fe3faec0a39",
+    "export_size": [
+      4814,
+      4268
+    ],
+    "spatial_scatter": "4 x 880 vector points, same source CSV; only rasterized=True changed to False",
+    "native_text_count": 89,
+    "export_sha256": "a3438dcb0c6915d1f80ac359b9b5bff127ee0d848e007bbb7bb5a5f225f7b126",
+    "label_edit_date": "2026-11-16",
+    "label_edit": "A.–G. standalone bold panel letters restored to match Figure4; descriptive panel titles and E footnote removed.",
+    "right_legend_column": false,
+    "label_revision": "2026-11-16 professional terminology: Identity baseline, Mean-shift baseline, Full model, Graph-free model, Input-skip ablation, HVG∖SVG and SVG∖HVG",
+    "layout_revision": "Figure 5F x-axis title shortened to Error reduction (%) with a right arrow",
+    "svg_sha256": "b088957aadc4a422c5da6f8055965a6c890c631639f10f82f1428312081e0ccf",
+    "panels": [
+      {
+        "panel": "A",
+        "title": "Panel A",
+        "png": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_A.png",
+        "svg": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_A.svg",
+        "drawio": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_A.drawio",
+        "sha256": "6445904b54fcabc593b70ac683bff47053a1b95c681583bf2850bcdf94ecca5b"
+      },
+      {
+        "panel": "B",
+        "title": "Panel B",
+        "png": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_B.png",
+        "svg": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_B.svg",
+        "drawio": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_B.drawio",
+        "sha256": "3d61d9ec160c224066369543fce6437a56488891b200e0481761e2d4bb0e13c7"
+      },
+      {
+        "panel": "C",
+        "title": "Panel C",
+        "png": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_C.png",
+        "svg": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_C.svg",
+        "drawio": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_C.drawio",
+        "sha256": "b72c641dd69bdccb4c77b00b808ef831398ad8408563f904bae1d49dd889fc28"
+      },
+      {
+        "panel": "D",
+        "title": "Panel D",
+        "png": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_D.png",
+        "svg": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_D.svg",
+        "drawio": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_D.drawio",
+        "sha256": "ad27f939f6b7a0905730876a8b79470fae3558a7d23ee90cb54ae4b1c1bee9ff"
+      },
+      {
+        "panel": "E",
+        "title": "Panel E",
+        "png": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_E.png",
+        "svg": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_E.svg",
+        "drawio": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_E.drawio",
+        "sha256": "7c6f8c28ef9afa3c42294e5cfd6c3cd495e0d75e9343181bb8c5d49179f97a66"
+      },
+      {
+        "panel": "F",
+        "title": "Panel F",
+        "png": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_F.png",
+        "svg": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_F.svg",
+        "drawio": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_F.drawio",
+        "sha256": "64559d9c9d680356c914ccd6ec0ba37f9e2049ee24f3222930f8d79959841e05"
+      },
+      {
+        "panel": "G",
+        "title": "Panel G",
+        "png": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_G.png",
+        "svg": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_G.svg",
+        "drawio": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_G.drawio",
+        "sha256": "a97504284f5e9b6c1d9df308c2f10c6833ff02e4a0a06ab0fba88b0b0308af97"
+      },
+      {
+        "panel": "H",
+        "title": "Panel H",
+        "png": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_H.png",
+        "svg": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_H.svg",
+        "drawio": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_H.drawio",
+        "sha256": "48081990d729ea32d970aaff2f5a200301efb4d1d2bcddd6607861fc1c97525c"
+      },
+      {
+        "panel": "I",
+        "title": "Panel I",
+        "png": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_I.png",
+        "svg": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_I.svg",
+        "drawio": "outputs/notebook_drawio_sync_20261115/figure5_panels/Figure5_I.drawio",
+        "sha256": "13c8a9bc31784df0a055857e64f14a284b53771ac3977a0b7ef0e492936edc31"
+      }
+    ],
+    "caption": "outputs/drawio_synced_20261114/drawio_figures/Main/Figure5_caption.en.txt",
+    "latest_data_changed": false,
+    "approved_layout_source": "outputs/figure5_d_gene_sets_preview_20261118/panels_def_candidate_v14.svg"
+  }
+]
