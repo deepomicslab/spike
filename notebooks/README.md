@@ -10,6 +10,6 @@ The notebooks display the approved manuscript figures from the November 2026 rel
 | [Figure 3](figure3.ipynb) | Complete figure and individual panels |
 | [Figure 4](figure4.ipynb) | Complete figure and individual panels |
 | [Figure 5](figure5.ipynb) | Complete figure and individual panels |
-| [Supplementary figures](supplementary_figures.ipynb) | Figures S1–S16 |
+| [Supplementary figures](supplementary_figures.ipynb) | Figures S1–S18 |
 
 The October numerical redraw scripts and reference illustrations elsewhere in this repository document an earlier manuscript version.

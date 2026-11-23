@@ -4654,5 +4654,41 @@
       19
     ],
     "consolidation_data_changed": false
+  },
+  {
+    "file": "Supplement/FigureS17.drawio",
+    "size": [
+      519.123587,
+      470.761762
+    ],
+    "export_size": [
+      4326,
+      3925
+    ],
+    "drawio_sha256": "b7a9ada6b87d2676f078f9d31990d76060c7d6a01830d4b229cd46120029a209",
+    "export_sha256": "c7e3c0cc939633825e66b68a5206ad16d7ca4c38e7ba08729acd335f140d2c3b",
+    "full_svg": "Supplement/FigureS17.svg",
+    "synchronized_date": "2026-11-23",
+    "all_data_complete": true,
+    "svg_sha256": "ef2eb0b5103a6fb4ba373fd50259f94e32d9667cd2d4cdae79ae88154de77a8e",
+    "png": "Supplement/FigureS17.png"
+  },
+  {
+    "file": "Supplement/FigureS18.drawio",
+    "size": [
+      592.971125,
+      549.942687
+    ],
+    "export_size": [
+      4940,
+      4583
+    ],
+    "drawio_sha256": "e91b3b9bae5b6bc5f14afd29f9406dd101adfaf87e6b3e1c34a2305ddf505fdf",
+    "export_sha256": "60d08dfe18ef27ee53c7b5cda26a21039c8b4ccb4348add5edb730feada76e08",
+    "full_svg": "Supplement/FigureS18.svg",
+    "synchronized_date": "2026-11-23",
+    "all_data_complete": true,
+    "svg_sha256": "87786e0e7912bf8bddc1f100acbd81e7577131baddaf087b908cb54b23b23061",
+    "png": "Supplement/FigureS18.png"
   }
 ]

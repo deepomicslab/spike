@@ -86,4 +86,4 @@ Open the [notebook collection](notebooks/README.md), select the **Spike figures*
 jupyter lab notebooks/
 ```
 
-The collection covers Figures 1–5 and Supplementary Figures S1–S16. Running the cells verifies each bundled image against its SHA-256 digest and displays it inline.
+The collection covers Figures 1–5 and Supplementary Figures S1–S18. Running the cells verifies each bundled image against its SHA-256 digest and displays it inline.
