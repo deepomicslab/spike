@@ -10,8 +10,8 @@ from perturb.models.conditional_residual import ConditionalResidual, canonicaliz
 
 This module requires PyTorch and `torch_geometric.nn.GATv2Conv`, including when
 `use_graph=False`: both branches construct the same parameter structure.
-Reading the source and checking its hash in the figure notebook needs only Python's standard library.
-The module has no dependency on the figure-plotting code. Notebooks use the CPU-only drawing code and checked CSVs in `reproduction/`.
+Reading this source requires no model environment.
+The module has no dependency on the figure-plotting code. The manuscript notebooks use the bundled figure images. The numerical code and input tables in `reproduction/` document the October snapshot.
 
 ## Interface
 

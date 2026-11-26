@@ -23,7 +23,7 @@ The manuscript evaluates expression prediction across seven spatial transcriptom
   <img src="outputs/drawio_synced_20261114/drawio_figures/Main/Figure1.png" width="95%" alt="Spike overview: unpaired inputs, conditional residual prediction, population supervision and regulatory interpretation">
 </p>
 
-The [notebooks](notebooks/README.md) display the November 2026 manuscript figures and their individual panels.
+The [notebooks](notebooks/README.md) display the November 2026 manuscript figures and individual panels of Figures 1–5.
 
 ## Installation & Setup
 
@@ -42,7 +42,7 @@ python -m ipykernel install --user --name spike-figures --display-name "Spike fi
 
 On Windows, activate the environment with `.venv\Scripts\activate` instead. Alternatively, use `conda create -n spike-figures python=3.12` and `conda activate spike-figures` before the pip command.
 
-The checked CSV files are included under [`reproduction/tables/`](reproduction/tables/). Figure reproduction needs no external `data/` directory, H5AD files, trained weights, PyTorch or GPU.
+The current figure notebooks read the [bundled manuscript images](assets/manuscript/) on CPU. The October numerical snapshot uses the tables in [`reproduction/tables/`](reproduction/tables/).
 
 ### Model source and comparator tools
 
@@ -86,4 +86,4 @@ Open the [notebook collection](notebooks/README.md), select the **Spike figures*
 jupyter lab notebooks/
 ```
 
-The collection covers Figures 1–5 and Supplementary Figures S1–S18. Running the cells verifies each bundled image against its SHA-256 digest and displays it inline.
+The collection covers Figures 1–5 and Supplementary Figures S1–S23. Running the cells verifies each bundled image against its SHA-256 digest and displays it inline.

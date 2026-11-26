@@ -33,15 +33,17 @@ def write_atomic(notebook, destination):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
-        "--figure", type=int, choices=[2, 3, 4, 5], action="append",
-        help="Repeat for several figures; default: all",
+        "--figure", type=int, choices=range(1, 6), action="append",
+        help="Repeat to select main figures. The default executes all seven notebooks.",
     )
     args = parser.parse_args()
     os.environ["SPIKE_CODE_ROOT"] = str(ROOT)
     directory = ROOT / "outputs/executed_notebooks"
     directory.mkdir(parents=True, exist_ok=True)
-    for number in (args.figure or [2, 3, 4, 5]):
-        source = ROOT / f"notebooks/figure{number}.ipynb"
+    notebooks = sorted((ROOT / "notebooks").glob("*.ipynb"))
+    if args.figure:
+        notebooks = [ROOT / f"notebooks/figure{number}.ipynb" for number in args.figure]
+    for source in notebooks:
         original = source.read_bytes()
         notebook = nbformat.reads(original.decode("utf-8"), as_version=4)
         for cell in notebook.cells:
@@ -59,7 +61,7 @@ def main():
         write_atomic(notebook, source)
         cells = [cell for cell in notebook.cells if cell.cell_type == "code"]
         images = sum("image/png" in output.get("data", {}) for cell in cells for output in cell.outputs)
-        print(f"PASS: Figure {number}; {len(cells)} code cells; {images} inline images; {source}", flush=True)
+        print(f"PASS: {source.stem}; {len(cells)} code cells; {images} inline images; {source}", flush=True)
 
 
 if __name__ == "__main__":
